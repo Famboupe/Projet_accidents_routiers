@@ -1,0 +1,13 @@
+prefix=C:/Users/thfam/anaconda3/envs/Projet_accidents_routiers/Library
+exec_prefix=C:/Users/thfam/anaconda3/envs/Projet_accidents_routiers/Library
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: gd
+Description: GD graphics library
+Version: ..
+Requires:
+Requires.private: freetype2, zlib, libpng, libjpeg, libtiff-4
+Cflags: -I${includedir}
+Libs.private: 
+Libs: -L${libdir} -lgd

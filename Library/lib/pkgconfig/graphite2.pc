@@ -1,0 +1,7 @@
+
+Name: Graphite2
+Description: Font rendering engine for Complex Scripts
+Version: 3.0.1
+Libs: -LC:/Users/thfam/anaconda3/envs/Projet_accidents_routiers/Library/lib -lgraphite2
+Cflags: -IC:/Users/thfam/anaconda3/envs/Projet_accidents_routiers/Library/include
+

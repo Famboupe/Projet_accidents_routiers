@@ -1,0 +1,273 @@
+==> 2024-02-21 17:58:36 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py create --yes --json --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers python=3.11
+# conda version: 23.7.4
++defaults/noarch::tzdata-2023d-h04d1e81_0
++defaults/win-64::bzip2-1.0.8-he774522_0
++defaults/win-64::ca-certificates-2023.12.12-haa95532_0
++defaults/win-64::libffi-3.4.4-hd77b12b_0
++defaults/win-64::openssl-3.0.13-h2bbff1b_0
++defaults/win-64::pip-23.3.1-py311haa95532_0
++defaults/win-64::python-3.11.7-he1021f5_0
++defaults/win-64::setuptools-68.2.2-py311haa95532_0
++defaults/win-64::sqlite-3.41.2-h2bbff1b_0
++defaults/win-64::tk-8.6.12-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wheel-0.41.2-py311haa95532_0
++defaults/win-64::xz-5.4.5-h8cc25b3_0
++defaults/win-64::zlib-1.2.13-h8cc25b3_0
+# update specs: ['python=3.11']
+==> 2024-02-21 17:59:42 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers pandas
+# conda version: 23.7.4
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::python-tzdata-2023.3-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::bottleneck-1.3.7-py311hd7041d2_0
++defaults/win-64::intel-openmp-2023.1.0-h59b6b97_46320
++defaults/win-64::mkl-2023.1.0-h6b88ed4_46358
++defaults/win-64::mkl-service-2.4.0-py311h2bbff1b_1
++defaults/win-64::mkl_fft-1.3.8-py311h2bbff1b_0
++defaults/win-64::mkl_random-1.2.4-py311h59b6b97_0
++defaults/win-64::numexpr-2.8.7-py311h1fcbade_0
++defaults/win-64::numpy-1.26.3-py311hdab7c0b_0
++defaults/win-64::numpy-base-1.26.3-py311hd01c5d8_0
++defaults/win-64::pandas-2.1.4-py311hf62ec03_0
++defaults/win-64::pytz-2023.3.post1-py311haa95532_0
++defaults/win-64::tbb-2021.8.0-h59b6b97_0
+# update specs: ['pandas']
+==> 2024-02-21 18:00:13 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers missingno
+# conda version: 23.7.4
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::fonttools-4.25.0-pyhd3eb1b0_0
++defaults/noarch::missingno-0.4.2-pyhd3eb1b0_1
++defaults/noarch::munkres-1.1.4-py_0
++defaults/win-64::brotli-1.0.9-h2bbff1b_7
++defaults/win-64::brotli-bin-1.0.9-h2bbff1b_7
++defaults/win-64::contourpy-1.2.0-py311h59b6b97_0
++defaults/win-64::freetype-2.12.1-ha860e81_0
++defaults/win-64::icc_rt-2022.1.0-h6049295_2
++defaults/win-64::jpeg-9e-h2bbff1b_1
++defaults/win-64::kiwisolver-1.4.4-py311hd77b12b_0
++defaults/win-64::lerc-3.0-hd77b12b_0
++defaults/win-64::libbrotlicommon-1.0.9-h2bbff1b_7
++defaults/win-64::libbrotlidec-1.0.9-h2bbff1b_7
++defaults/win-64::libbrotlienc-1.0.9-h2bbff1b_7
++defaults/win-64::libdeflate-1.17-h2bbff1b_1
++defaults/win-64::libpng-1.6.39-h8cc25b3_0
++defaults/win-64::libtiff-4.5.1-hd77b12b_0
++defaults/win-64::libwebp-base-1.3.2-h2bbff1b_0
++defaults/win-64::lz4-c-1.9.4-h2bbff1b_0
++defaults/win-64::matplotlib-base-3.8.0-py311hf62ec03_0
++defaults/win-64::openjpeg-2.4.0-h4fc8c34_0
++defaults/win-64::packaging-23.1-py311haa95532_0
++defaults/win-64::pillow-10.2.0-py311h2bbff1b_0
++defaults/win-64::pyparsing-3.0.9-py311haa95532_0
++defaults/win-64::scipy-1.11.4-py311hc1ccb85_0
++defaults/win-64::seaborn-0.12.2-py311haa95532_0
++defaults/win-64::zstd-1.5.5-hd43e919_0
+# update specs: ['missingno']
+==> 2024-02-21 18:01:43 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers plotly
+# conda version: 23.7.4
++defaults/win-64::plotly-5.9.0-py311haa95532_0
++defaults/win-64::tenacity-8.2.2-py311haa95532_0
+# update specs: ['plotly']
+==> 2024-02-21 18:03:14 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers scikit-learn scikit-plot
+# conda version: 23.7.4
++defaults/noarch::threadpoolctl-2.2.0-pyh0d69192_0
++defaults/win-64::joblib-1.2.0-py311haa95532_0
++defaults/win-64::scikit-learn-1.2.2-py311hd77b12b_1
++defaults/win-64::scikit-plot-0.3.7-py311haa95532_0
+# update specs: ['scikit-plot', 'scikit-learn']
+==> 2024-02-21 18:06:34 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers console_shortcut
+# conda version: 23.7.4
++defaults/win-64::console_shortcut-0.1.1-4
+# update specs: ['console_shortcut']
+==> 2024-02-21 18:06:55 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers notebook
+# conda version: 23.7.4
++defaults/noarch::argon2-cffi-21.3.0-pyhd3eb1b0_0
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::bleach-4.1.0-pyhd3eb1b0_0
++defaults/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::defusedxml-0.7.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::json5-0.9.6-pyhd3eb1b0_0
++defaults/noarch::jupyterlab_pygments-0.1.2-py_0
++defaults/noarch::pandocfilters-1.5.0-pyhd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::prompt_toolkit-3.0.43-hd3eb1b0_0
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/win-64::anyio-4.2.0-py311haa95532_0
++defaults/win-64::argon2-cffi-bindings-21.2.0-py311h2bbff1b_0
++defaults/win-64::async-lru-2.0.4-py311haa95532_0
++defaults/win-64::attrs-23.1.0-py311haa95532_0
++defaults/win-64::babel-2.11.0-py311haa95532_0
++defaults/win-64::beautifulsoup4-4.12.2-py311haa95532_0
++defaults/win-64::brotli-python-1.0.9-py311hd77b12b_7
++defaults/win-64::certifi-2024.2.2-py311haa95532_0
++defaults/win-64::cffi-1.16.0-py311h2bbff1b_0
++defaults/win-64::colorama-0.4.6-py311haa95532_0
++defaults/win-64::comm-0.1.2-py311haa95532_0
++defaults/win-64::debugpy-1.6.7-py311hd77b12b_0
++defaults/win-64::idna-3.4-py311haa95532_0
++defaults/win-64::ipykernel-6.28.0-py311haa95532_0
++defaults/win-64::ipython-8.20.0-py311haa95532_0
++defaults/win-64::jedi-0.18.1-py311haa95532_1
++defaults/win-64::jinja2-3.1.3-py311haa95532_0
++defaults/win-64::jsonschema-4.19.2-py311haa95532_0
++defaults/win-64::jsonschema-specifications-2023.7.1-py311haa95532_0
++defaults/win-64::jupyter-lsp-2.2.0-py311haa95532_0
++defaults/win-64::jupyter_client-8.6.0-py311haa95532_0
++defaults/win-64::jupyter_core-5.5.0-py311haa95532_0
++defaults/win-64::jupyter_events-0.8.0-py311haa95532_0
++defaults/win-64::jupyter_server-2.10.0-py311haa95532_0
++defaults/win-64::jupyter_server_terminals-0.4.4-py311haa95532_1
++defaults/win-64::jupyterlab-4.0.11-py311haa95532_0
++defaults/win-64::jupyterlab_server-2.25.1-py311haa95532_0
++defaults/win-64::libsodium-1.0.18-h62dcd97_0
++defaults/win-64::markupsafe-2.1.3-py311h2bbff1b_0
++defaults/win-64::matplotlib-inline-0.1.6-py311haa95532_0
++defaults/win-64::mistune-2.0.4-py311haa95532_0
++defaults/win-64::nbclient-0.8.0-py311haa95532_0
++defaults/win-64::nbconvert-7.10.0-py311haa95532_0
++defaults/win-64::nbformat-5.9.2-py311haa95532_0
++defaults/win-64::nest-asyncio-1.5.6-py311haa95532_0
++defaults/win-64::notebook-7.0.8-py311haa95532_0
++defaults/win-64::notebook-shim-0.2.3-py311haa95532_0
++defaults/win-64::overrides-7.4.0-py311haa95532_0
++defaults/win-64::platformdirs-3.10.0-py311haa95532_0
++defaults/win-64::prometheus_client-0.14.1-py311haa95532_0
++defaults/win-64::prompt-toolkit-3.0.43-py311haa95532_0
++defaults/win-64::psutil-5.9.0-py311h2bbff1b_0
++defaults/win-64::pygments-2.15.1-py311haa95532_1
++defaults/win-64::pysocks-1.7.1-py311haa95532_0
++defaults/win-64::python-fastjsonschema-2.16.2-py311haa95532_0
++defaults/win-64::python-json-logger-2.0.7-py311haa95532_0
++defaults/win-64::pywin32-305-py311h2bbff1b_0
++defaults/win-64::pywinpty-2.0.10-py311h5da7b33_0
++defaults/win-64::pyyaml-6.0.1-py311h2bbff1b_0
++defaults/win-64::pyzmq-25.1.2-py311hd77b12b_0
++defaults/win-64::referencing-0.30.2-py311haa95532_0
++defaults/win-64::requests-2.31.0-py311haa95532_1
++defaults/win-64::rfc3339-validator-0.1.4-py311haa95532_0
++defaults/win-64::rfc3986-validator-0.1.1-py311haa95532_0
++defaults/win-64::rpds-py-0.10.6-py311h062c2fa_0
++defaults/win-64::send2trash-1.8.2-py311haa95532_0
++defaults/win-64::sniffio-1.3.0-py311haa95532_0
++defaults/win-64::soupsieve-2.5-py311haa95532_0
++defaults/win-64::terminado-0.17.1-py311haa95532_0
++defaults/win-64::tinycss2-1.2.1-py311haa95532_0
++defaults/win-64::tornado-6.3.3-py311h2bbff1b_0
++defaults/win-64::traitlets-5.7.1-py311haa95532_0
++defaults/win-64::typing-extensions-4.9.0-py311haa95532_1
++defaults/win-64::typing_extensions-4.9.0-py311haa95532_1
++defaults/win-64::urllib3-2.1.0-py311haa95532_1
++defaults/win-64::webencodings-0.5.1-py311haa95532_1
++defaults/win-64::websocket-client-0.58.0-py311haa95532_4
++defaults/win-64::win_inet_pton-1.1.0-py311haa95532_0
++defaults/win-64::winpty-0.4.3-4
++defaults/win-64::yaml-0.2.5-he774522_0
++defaults/win-64::zeromq-4.3.5-hd77b12b_0
+# update specs: ['notebook']
+==> 2024-02-21 18:08:04 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install -c anaconda ipykernel
+# conda version: 23.7.4
+-defaults/win-64::ca-certificates-2023.12.12-haa95532_0
+-defaults/win-64::certifi-2024.2.2-py311haa95532_0
+-defaults/win-64::ipykernel-6.28.0-py311haa95532_0
+-defaults/win-64::openssl-3.0.13-h2bbff1b_0
++anaconda/win-64::ca-certificates-2023.08.22-haa95532_0
++anaconda/win-64::certifi-2023.11.17-py311haa95532_0
++anaconda/win-64::ipykernel-6.25.0-py311h746a85d_0
++anaconda/win-64::openssl-3.0.12-h2bbff1b_0
+# update specs: ['ipykernel']
+==> 2024-03-06 12:18:50 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers tqdm
+# conda version: 23.7.4
+-anaconda/win-64::ca-certificates-2023.08.22-haa95532_0
+-anaconda/win-64::certifi-2023.11.17-py311haa95532_0
+-anaconda/win-64::openssl-3.0.12-h2bbff1b_0
++defaults/win-64::ca-certificates-2023.12.12-haa95532_0
++defaults/win-64::certifi-2024.2.2-py311haa95532_0
++defaults/win-64::openssl-3.0.13-h2bbff1b_0
++defaults/win-64::tqdm-4.65.0-py311h746a85d_0
+# update specs: ['tqdm']
+==> 2024-03-27 19:45:28 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers imbalanced-learn
+# conda version: 23.7.4
+-defaults/win-64::ca-certificates-2023.12.12-haa95532_0
++defaults/win-64::ca-certificates-2024.3.11-haa95532_0
++defaults/win-64::imbalanced-learn-0.11.0-py311haa95532_1
+# update specs: ['imbalanced-learn']
+==> 2024-03-27 19:58:49 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install -c anaconda ipykernel
+# conda version: 23.7.4
+-defaults/win-64::ca-certificates-2024.3.11-haa95532_0
+-defaults/win-64::certifi-2024.2.2-py311haa95532_0
+-defaults/win-64::openssl-3.0.13-h2bbff1b_0
++anaconda/win-64::ca-certificates-2023.08.22-haa95532_0
++anaconda/win-64::certifi-2023.11.17-py311haa95532_0
++anaconda/win-64::openssl-3.0.12-h2bbff1b_0
+# update specs: ['ipykernel']
+==> 2024-07-09 16:18:09 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-reinstall --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers mlxtend
+# conda version: 23.7.4
+-anaconda/win-64::ca-certificates-2023.08.22-haa95532_0
+-anaconda/win-64::certifi-2023.11.17-py311haa95532_0
++defaults/win-64::ca-certificates-2024.3.11-haa95532_0
++defaults/win-64::certifi-2024.6.2-py311haa95532_0
++defaults/win-64::mlxtend-0.23.1-py311haa95532_0
+# update specs: ['mlxtend']
+==> 2024-07-09 16:29:29 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install -c anaconda ipykernel
+# conda version: 23.7.4
+-defaults/win-64::ca-certificates-2024.3.11-haa95532_0
+-defaults/win-64::certifi-2024.6.2-py311haa95532_0
++anaconda/win-64::ca-certificates-2023.08.22-haa95532_0
++anaconda/win-64::certifi-2023.11.17-py311haa95532_0
+# update specs: ['ipykernel']
+==> 2024-09-08 12:30:45 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install --yes --json --force-reinstall --prefix C:\Users\thfam\anaconda3\envs\Projet_accidents_routiers graphviz
+# conda version: 23.7.4
+-anaconda/win-64::ca-certificates-2023.08.22-haa95532_0
+-anaconda/win-64::certifi-2023.11.17-py311haa95532_0
++defaults/win-64::ca-certificates-2024.7.2-haa95532_0
++defaults/win-64::cairo-1.16.0-he04af86_2
++defaults/win-64::certifi-2024.8.30-py311haa95532_0
++defaults/win-64::expat-2.6.2-hd77b12b_0
++defaults/win-64::fribidi-1.0.10-h62dcd97_0
++defaults/win-64::getopt-win32-0.1-h2bbff1b_0
++defaults/win-64::glib-2.78.4-hd77b12b_0
++defaults/win-64::glib-tools-2.78.4-hd77b12b_0
++defaults/win-64::graphite2-1.3.14-hd77b12b_1
++defaults/win-64::graphviz-2.50.0-hdb8b0d4_0
++defaults/win-64::gts-0.7.6-h63ab5a1_3
++defaults/win-64::harfbuzz-4.3.0-hb646838_2
++defaults/win-64::icu-73.1-h6c2663c_0
++defaults/win-64::libgd-2.3.3-ha43c60c_1
++defaults/win-64::libglib-2.78.4-ha17d25a_0
++defaults/win-64::libiconv-1.16-h2bbff1b_3
++defaults/win-64::pango-1.50.7-h78c2152_0
++defaults/win-64::pcre2-10.42-h0ff8eda_1
++defaults/win-64::pixman-0.40.0-h2bbff1b_1
+# update specs: ['graphviz']
+==> 2024-09-08 15:07:03 <==
+# cmd: C:\Users\thfam\anaconda3\Scripts\conda-script.py install -c anaconda ipykernel
+# conda version: 23.7.4
+-anaconda/win-64::ipykernel-6.25.0-py311h746a85d_0
+-defaults/win-64::ca-certificates-2024.7.2-haa95532_0
+-defaults/win-64::certifi-2024.8.30-py311haa95532_0
++anaconda/win-64::ca-certificates-2024.7.2-haa95532_0
++anaconda/win-64::certifi-2024.8.30-py311haa95532_0
++anaconda/win-64::ipykernel-6.28.0-py311haa95532_0
+# update specs: ['ipykernel']

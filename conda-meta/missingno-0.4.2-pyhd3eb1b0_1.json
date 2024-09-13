@@ -1,0 +1,74 @@
+{
+  "build": "pyhd3eb1b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base",
+    "numpy",
+    "pandas",
+    "python",
+    "scipy",
+    "seaborn"
+  ],
+  "extracted_package_dir": "C:\\Users\\thfam\\anaconda3\\pkgs\\missingno-0.4.2-pyhd3eb1b0_1",
+  "files": [
+    "Lib/site-packages/missingno-0.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/missingno-0.4.2.dist-info/METADATA",
+    "Lib/site-packages/missingno-0.4.2.dist-info/RECORD",
+    "Lib/site-packages/missingno-0.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/missingno-0.4.2.dist-info/WHEEL",
+    "Lib/site-packages/missingno-0.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/missingno-0.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/missingno/__init__.py",
+    "Lib/site-packages/missingno/_version.py",
+    "Lib/site-packages/missingno/missingno.py",
+    "Lib/site-packages/missingno/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/missingno/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/missingno/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/missingno/__pycache__/missingno.cpython-311.pyc",
+    "Lib/site-packages/missingno/__pycache__/utils.cpython-311.pyc"
+  ],
+  "fn": "missingno-0.4.2-pyhd3eb1b0_1.conda",
+  "legacy_bz2_md5": "cd4820745c74dfbcb312396241a431ec",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\thfam\\anaconda3\\pkgs\\missingno-0.4.2-pyhd3eb1b0_1",
+    "type": 1
+  },
+  "md5": "f3fc9e2c1e4d99354ba370cd2e2b02a1",
+  "name": "missingno",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thfam\\anaconda3\\pkgs\\missingno-0.4.2-pyhd3eb1b0_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/missingno/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/missingno/__pycache__/_version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/missingno/__pycache__/missingno.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/missingno/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "missingno",
+  "sha256": "5ede34ecd75559b02a32e87028682e107f032d8cc445483754ce35274e0bf935",
+  "size": 15342,
+  "subdir": "noarch",
+  "timestamp": 1605824181379,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/missingno-0.4.2-pyhd3eb1b0_1.conda",
+  "version": "0.4.2"
+}

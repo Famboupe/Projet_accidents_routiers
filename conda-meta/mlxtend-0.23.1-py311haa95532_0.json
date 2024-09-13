@@ -1,0 +1,3426 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "joblib >=0.13.2",
+    "matplotlib-base >=3.0.0",
+    "numpy >=1.16.2",
+    "pandas >=0.24.2",
+    "python >=3.11,<3.12.0a0",
+    "scikit-learn >=1.0.2",
+    "scipy >=1.2.1"
+  ],
+  "extracted_package_dir": "C:\\Users\\thfam\\anaconda3\\pkgs\\mlxtend-0.23.1-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/INSTALLER",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/LICENSE-BSD3.txt",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/LICENSE-CC-BY.txt",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/METADATA",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/RECORD",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/REQUESTED",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/WHEEL",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/direct_url.json",
+    "Lib/site-packages/mlxtend-0.23.1.dist-info/top_level.txt",
+    "Lib/site-packages/mlxtend/__init__.py",
+    "Lib/site-packages/mlxtend/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__init__.py",
+    "Lib/site-packages/mlxtend/_base/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__pycache__/_base_model.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__pycache__/_classifier.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__pycache__/_cluster.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__pycache__/_iterative_model.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__pycache__/_multiclass.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__pycache__/_multilayer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/__pycache__/_regressor.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/_base_model.py",
+    "Lib/site-packages/mlxtend/_base/_classifier.py",
+    "Lib/site-packages/mlxtend/_base/_cluster.py",
+    "Lib/site-packages/mlxtend/_base/_iterative_model.py",
+    "Lib/site-packages/mlxtend/_base/_multiclass.py",
+    "Lib/site-packages/mlxtend/_base/_multilayer.py",
+    "Lib/site-packages/mlxtend/_base/_regressor.py",
+    "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_base_model.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_classifier.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_cluster.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_iterative_model.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_multiclass.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_multilayer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_regressor.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/_base/tests/test_base_model.py",
+    "Lib/site-packages/mlxtend/_base/tests/test_classifier.py",
+    "Lib/site-packages/mlxtend/_base/tests/test_cluster.py",
+    "Lib/site-packages/mlxtend/_base/tests/test_iterative_model.py",
+    "Lib/site-packages/mlxtend/_base/tests/test_multiclass.py",
+    "Lib/site-packages/mlxtend/_base/tests/test_multilayer.py",
+    "Lib/site-packages/mlxtend/_base/tests/test_regressor.py",
+    "Lib/site-packages/mlxtend/classifier/__init__.py",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/_base_classification.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/adaline.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/ensemble_vote.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/logistic_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/multilayerperceptron.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/oner.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/perceptron.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/softmax_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/stacking_classification.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/__pycache__/stacking_cv_classification.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/_base_classification.py",
+    "Lib/site-packages/mlxtend/classifier/adaline.py",
+    "Lib/site-packages/mlxtend/classifier/ensemble_vote.py",
+    "Lib/site-packages/mlxtend/classifier/logistic_regression.py",
+    "Lib/site-packages/mlxtend/classifier/multilayerperceptron.py",
+    "Lib/site-packages/mlxtend/classifier/oner.py",
+    "Lib/site-packages/mlxtend/classifier/perceptron.py",
+    "Lib/site-packages/mlxtend/classifier/softmax_regression.py",
+    "Lib/site-packages/mlxtend/classifier/stacking_classification.py",
+    "Lib/site-packages/mlxtend/classifier/stacking_cv_classification.py",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_adaline.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_ensemble_vote_classifier.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_logistic_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_multilayerperceptron.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_oner.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_perceptron.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_softmax_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_stacking_classifier.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_stacking_cv_classifier.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/classifier/tests/test_adaline.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_ensemble_vote_classifier.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_logistic_regression.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_multilayerperceptron.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_oner.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_perceptron.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_softmax_regression.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_stacking_classifier.py",
+    "Lib/site-packages/mlxtend/classifier/tests/test_stacking_cv_classifier.py",
+    "Lib/site-packages/mlxtend/cluster/__init__.py",
+    "Lib/site-packages/mlxtend/cluster/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/cluster/__pycache__/kmeans.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/cluster/kmeans.py",
+    "Lib/site-packages/mlxtend/cluster/tests/__pycache__/test_kmeans.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/cluster/tests/test_kmeans.py",
+    "Lib/site-packages/mlxtend/data/__init__.py",
+    "Lib/site-packages/mlxtend/data/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/autompg.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/boston_housing.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/iris.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/local_mnist.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/mnist.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/multiplexer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/three_blobs.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/__pycache__/wine.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/autompg.py",
+    "Lib/site-packages/mlxtend/data/boston_housing.py",
+    "Lib/site-packages/mlxtend/data/data/autompg.csv.gz",
+    "Lib/site-packages/mlxtend/data/data/boston_housing.csv",
+    "Lib/site-packages/mlxtend/data/data/iris.csv.gz",
+    "Lib/site-packages/mlxtend/data/data/mnist_5k.csv.gz",
+    "Lib/site-packages/mlxtend/data/data/three_blobs.csv.gz",
+    "Lib/site-packages/mlxtend/data/data/wine.csv",
+    "Lib/site-packages/mlxtend/data/iris.py",
+    "Lib/site-packages/mlxtend/data/local_mnist.py",
+    "Lib/site-packages/mlxtend/data/mnist.py",
+    "Lib/site-packages/mlxtend/data/multiplexer.py",
+    "Lib/site-packages/mlxtend/data/tests/__pycache__/test_datasets.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/tests/__pycache__/test_iris.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/tests/__pycache__/test_multiplexer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/data/tests/test_datasets.py",
+    "Lib/site-packages/mlxtend/data/tests/test_iris.py",
+    "Lib/site-packages/mlxtend/data/tests/test_multiplexer.py",
+    "Lib/site-packages/mlxtend/data/three_blobs.py",
+    "Lib/site-packages/mlxtend/data/wine.py",
+    "Lib/site-packages/mlxtend/evaluate/__init__.py",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/accuracy.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/bias_variance_decomp.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/bootstrap.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/bootstrap_outofbag.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/bootstrap_point632.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/cochrans_q.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/confusion_matrix.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/counterfactual.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/f_test.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/feature_importance.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/holdout.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/lift_score.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/mcnemar.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/permutation.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/proportion_difference.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/scoring.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/time_series.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/__pycache__/ttest.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/accuracy.py",
+    "Lib/site-packages/mlxtend/evaluate/bias_variance_decomp.py",
+    "Lib/site-packages/mlxtend/evaluate/bootstrap.py",
+    "Lib/site-packages/mlxtend/evaluate/bootstrap_outofbag.py",
+    "Lib/site-packages/mlxtend/evaluate/bootstrap_point632.py",
+    "Lib/site-packages/mlxtend/evaluate/cochrans_q.py",
+    "Lib/site-packages/mlxtend/evaluate/confusion_matrix.py",
+    "Lib/site-packages/mlxtend/evaluate/counterfactual.py",
+    "Lib/site-packages/mlxtend/evaluate/f_test.py",
+    "Lib/site-packages/mlxtend/evaluate/feature_importance.py",
+    "Lib/site-packages/mlxtend/evaluate/holdout.py",
+    "Lib/site-packages/mlxtend/evaluate/lift_score.py",
+    "Lib/site-packages/mlxtend/evaluate/mcnemar.py",
+    "Lib/site-packages/mlxtend/evaluate/permutation.py",
+    "Lib/site-packages/mlxtend/evaluate/proportion_difference.py",
+    "Lib/site-packages/mlxtend/evaluate/scoring.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_accuracy.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bias_variance_decomp.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bootstrap.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bootstrap_outofbag.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bootstrap_point632.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_cochran_q.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_combined_ftest_5x2cv.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_confusion_matrix.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_counterfactual.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_f_test.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_feature_importance.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_holdout.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_lift_score.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_mcnemar_table.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_mcnemar_tables.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_mcnemar_test.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_paired_ttest_5x2cv.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_paired_ttest_kfold.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_paired_ttest_resampled.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_permutation.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_proportion_difference.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_scoring.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_time_series.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_accuracy.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_bias_variance_decomp.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_bootstrap.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_bootstrap_outofbag.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_bootstrap_point632.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_cochran_q.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_combined_ftest_5x2cv.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_confusion_matrix.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_counterfactual.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_f_test.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_feature_importance.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_holdout.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_lift_score.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_mcnemar_table.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_mcnemar_tables.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_mcnemar_test.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_paired_ttest_5x2cv.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_paired_ttest_kfold.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_paired_ttest_resampled.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_permutation.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_proportion_difference.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_scoring.py",
+    "Lib/site-packages/mlxtend/evaluate/tests/test_time_series.py",
+    "Lib/site-packages/mlxtend/evaluate/time_series.py",
+    "Lib/site-packages/mlxtend/evaluate/ttest.py",
+    "Lib/site-packages/mlxtend/externals/__init__.py",
+    "Lib/site-packages/mlxtend/externals/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/__pycache__/adjust_text.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/__pycache__/estimator_checks.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/__pycache__/name_estimators.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/__pycache__/signature_py27.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/adjust_text.py",
+    "Lib/site-packages/mlxtend/externals/estimator_checks.py",
+    "Lib/site-packages/mlxtend/externals/name_estimators.py",
+    "Lib/site-packages/mlxtend/externals/pyprind/__init__.py",
+    "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/generator_factory.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/prog_class.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/progbar.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/progpercent.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/externals/pyprind/generator_factory.py",
+    "Lib/site-packages/mlxtend/externals/pyprind/prog_class.py",
+    "Lib/site-packages/mlxtend/externals/pyprind/progbar.py",
+    "Lib/site-packages/mlxtend/externals/pyprind/progpercent.py",
+    "Lib/site-packages/mlxtend/externals/signature_py27.py",
+    "Lib/site-packages/mlxtend/feature_extraction/__init__.py",
+    "Lib/site-packages/mlxtend/feature_extraction/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/__pycache__/base.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/__pycache__/linear_discriminant_analysis.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/__pycache__/principal_component_analysis.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/__pycache__/rbf_kernel_pca.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/base.py",
+    "Lib/site-packages/mlxtend/feature_extraction/linear_discriminant_analysis.py",
+    "Lib/site-packages/mlxtend/feature_extraction/principal_component_analysis.py",
+    "Lib/site-packages/mlxtend/feature_extraction/rbf_kernel_pca.py",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_base.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_kernel_pca.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_linear_discriminant_analysis.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_principal_component_analysis.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/test_base.py",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/test_kernel_pca.py",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/test_linear_discriminant_analysis.py",
+    "Lib/site-packages/mlxtend/feature_extraction/tests/test_principal_component_analysis.py",
+    "Lib/site-packages/mlxtend/feature_selection/__init__.py",
+    "Lib/site-packages/mlxtend/feature_selection/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/__pycache__/column_selector.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/__pycache__/exhaustive_feature_selector.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/__pycache__/sequential_feature_selector.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/__pycache__/utilities.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/column_selector.py",
+    "Lib/site-packages/mlxtend/feature_selection/exhaustive_feature_selector.py",
+    "Lib/site-packages/mlxtend/feature_selection/sequential_feature_selector.py",
+    "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_column_selector.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_exhaustive_feature_selector.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_sequential_feature_selector.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_sequential_feature_selector_feature_groups.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_sequential_feature_selector_fixed_features.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/feature_selection/tests/test_column_selector.py",
+    "Lib/site-packages/mlxtend/feature_selection/tests/test_exhaustive_feature_selector.py",
+    "Lib/site-packages/mlxtend/feature_selection/tests/test_sequential_feature_selector.py",
+    "Lib/site-packages/mlxtend/feature_selection/tests/test_sequential_feature_selector_feature_groups.py",
+    "Lib/site-packages/mlxtend/feature_selection/tests/test_sequential_feature_selector_fixed_features.py",
+    "Lib/site-packages/mlxtend/feature_selection/utilities.py",
+    "Lib/site-packages/mlxtend/file_io/__init__.py",
+    "Lib/site-packages/mlxtend/file_io/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/file_io/__pycache__/find_filegroups.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/file_io/__pycache__/find_files.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/file_io/find_filegroups.py",
+    "Lib/site-packages/mlxtend/file_io/find_files.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/__init__.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/apriori.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/association_rules.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/fpcommon.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/fpgrowth.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/fpmax.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/hmine.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/apriori.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/association_rules.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/fpcommon.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/fpgrowth.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/fpmax.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/hmine.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_apriori.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_association_rules.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_fpbase.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_fpgrowth.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_fpmax.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_hmine.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/test_apriori.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/test_association_rules.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/test_fpbase.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/test_fpgrowth.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/test_fpmax.py",
+    "Lib/site-packages/mlxtend/frequent_patterns/tests/test_hmine.py",
+    "Lib/site-packages/mlxtend/math/__init__.py",
+    "Lib/site-packages/mlxtend/math/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/math/__pycache__/counting.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/math/__pycache__/linalg.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/math/counting.py",
+    "Lib/site-packages/mlxtend/math/linalg.py",
+    "Lib/site-packages/mlxtend/math/tests/__pycache__/test_counting.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/math/tests/__pycache__/test_linalg.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/math/tests/test_counting.py",
+    "Lib/site-packages/mlxtend/math/tests/test_linalg.py",
+    "Lib/site-packages/mlxtend/plotting/__init__.py",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/checkerboard.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/decision_regions.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/ecdf.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/enrichment_plot.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/heatmap.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/learning_curves.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/pca_correlation_graph.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/plot_confusion_matrix.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/plot_linear_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/plot_sequential_feature_selection.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/remove_chartjunk.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/scatter.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/scatter_hist.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/scatterplotmatrix.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/__pycache__/stacked_barplot.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/checkerboard.py",
+    "Lib/site-packages/mlxtend/plotting/decision_regions.py",
+    "Lib/site-packages/mlxtend/plotting/ecdf.py",
+    "Lib/site-packages/mlxtend/plotting/enrichment_plot.py",
+    "Lib/site-packages/mlxtend/plotting/heatmap.py",
+    "Lib/site-packages/mlxtend/plotting/learning_curves.py",
+    "Lib/site-packages/mlxtend/plotting/pca_correlation_graph.py",
+    "Lib/site-packages/mlxtend/plotting/plot_confusion_matrix.py",
+    "Lib/site-packages/mlxtend/plotting/plot_linear_regression.py",
+    "Lib/site-packages/mlxtend/plotting/plot_sequential_feature_selection.py",
+    "Lib/site-packages/mlxtend/plotting/remove_chartjunk.py",
+    "Lib/site-packages/mlxtend/plotting/scatter.py",
+    "Lib/site-packages/mlxtend/plotting/scatter_hist.py",
+    "Lib/site-packages/mlxtend/plotting/scatterplotmatrix.py",
+    "Lib/site-packages/mlxtend/plotting/stacked_barplot.py",
+    "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_checkerboard.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_decision_regions.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_ecdf.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_heatmap.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_learning_curves.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_pca_corr_graph.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_scatter_hist.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/plotting/tests/test_checkerboard.py",
+    "Lib/site-packages/mlxtend/plotting/tests/test_decision_regions.py",
+    "Lib/site-packages/mlxtend/plotting/tests/test_ecdf.py",
+    "Lib/site-packages/mlxtend/plotting/tests/test_heatmap.py",
+    "Lib/site-packages/mlxtend/plotting/tests/test_learning_curves.py",
+    "Lib/site-packages/mlxtend/plotting/tests/test_pca_corr_graph.py",
+    "Lib/site-packages/mlxtend/plotting/tests/test_scatter_hist.py",
+    "Lib/site-packages/mlxtend/preprocessing/__init__.py",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/copy_transformer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/dense_transformer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/mean_centering.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/onehot.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/scaling.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/shuffle.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/__pycache__/transactionencoder.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/copy_transformer.py",
+    "Lib/site-packages/mlxtend/preprocessing/dense_transformer.py",
+    "Lib/site-packages/mlxtend/preprocessing/mean_centering.py",
+    "Lib/site-packages/mlxtend/preprocessing/onehot.py",
+    "Lib/site-packages/mlxtend/preprocessing/scaling.py",
+    "Lib/site-packages/mlxtend/preprocessing/shuffle.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test__scaling__minmax_scaling.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test__scaling__standardizing.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_copy_transformer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_dense_transformer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_mean_centering.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_onehot.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_shuffle_shuffle_arrays_unison.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_transactionencoder.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test__scaling__minmax_scaling.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test__scaling__standardizing.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test_copy_transformer.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test_dense_transformer.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test_mean_centering.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test_onehot.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test_shuffle_shuffle_arrays_unison.py",
+    "Lib/site-packages/mlxtend/preprocessing/tests/test_transactionencoder.py",
+    "Lib/site-packages/mlxtend/preprocessing/transactionencoder.py",
+    "Lib/site-packages/mlxtend/regressor/__init__.py",
+    "Lib/site-packages/mlxtend/regressor/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/regressor/__pycache__/linear_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/regressor/__pycache__/stacking_cv_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/regressor/__pycache__/stacking_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/regressor/linear_regression.py",
+    "Lib/site-packages/mlxtend/regressor/stacking_cv_regression.py",
+    "Lib/site-packages/mlxtend/regressor/stacking_regression.py",
+    "Lib/site-packages/mlxtend/regressor/tests/__pycache__/test_linear_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/regressor/tests/__pycache__/test_stacking_cv_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/regressor/tests/__pycache__/test_stacking_regression.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/regressor/tests/test_linear_regression.py",
+    "Lib/site-packages/mlxtend/regressor/tests/test_stacking_cv_regression.py",
+    "Lib/site-packages/mlxtend/regressor/tests/test_stacking_regression.py",
+    "Lib/site-packages/mlxtend/text/__init__.py",
+    "Lib/site-packages/mlxtend/text/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/text/__pycache__/names.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/text/__pycache__/tokenizer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/text/names.py",
+    "Lib/site-packages/mlxtend/text/tests/__pycache__/data_names.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/text/tests/__pycache__/test_generalize_names.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/text/tests/__pycache__/test_generalize_names_duplcheck.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/text/tests/__pycache__/test_tokenizer.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/text/tests/data_names.py",
+    "Lib/site-packages/mlxtend/text/tests/test_generalize_names.py",
+    "Lib/site-packages/mlxtend/text/tests/test_generalize_names_duplcheck.py",
+    "Lib/site-packages/mlxtend/text/tests/test_tokenizer.py",
+    "Lib/site-packages/mlxtend/text/tokenizer.py",
+    "Lib/site-packages/mlxtend/utils/__init__.py",
+    "Lib/site-packages/mlxtend/utils/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/__pycache__/base_compostion.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/__pycache__/checking.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/__pycache__/counter.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/__pycache__/testing.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/base_compostion.py",
+    "Lib/site-packages/mlxtend/utils/checking.py",
+    "Lib/site-packages/mlxtend/utils/counter.py",
+    "Lib/site-packages/mlxtend/utils/testing.py",
+    "Lib/site-packages/mlxtend/utils/tests/__pycache__/test_checking_inputs.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/tests/__pycache__/test_counter.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/tests/__pycache__/test_testing.cpython-311.pyc",
+    "Lib/site-packages/mlxtend/utils/tests/test_checking_inputs.py",
+    "Lib/site-packages/mlxtend/utils/tests/test_counter.py",
+    "Lib/site-packages/mlxtend/utils/tests/test_testing.py",
+    ".nonadmin"
+  ],
+  "fn": "mlxtend-0.23.1-py311haa95532_0.conda",
+  "legacy_bz2_md5": "e221d1f4d46772df2a40e63724e8652f",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\thfam\\anaconda3\\pkgs\\mlxtend-0.23.1-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "668d376a54e23cd26b78fe12a5262d69",
+  "name": "mlxtend",
+  "package_tarball_full_path": "C:\\Users\\thfam\\anaconda3\\pkgs\\mlxtend-0.23.1-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/LICENSE-BSD3.txt",
+        "path_type": "hardlink",
+        "sha256": "cab0c0e99f77ee76eafd620815d9f27de509073bc7f8446a80dd34767da79d00",
+        "sha256_in_prefix": "cab0c0e99f77ee76eafd620815d9f27de509073bc7f8446a80dd34767da79d00",
+        "size_in_bytes": 1505
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/LICENSE-CC-BY.txt",
+        "path_type": "hardlink",
+        "sha256": "c5f453439cf6a8c959fa3cdb2f019043a5a329813e29353111cb6fa610d491df",
+        "sha256_in_prefix": "c5f453439cf6a8c959fa3cdb2f019043a5a329813e29353111cb6fa610d491df",
+        "size_in_bytes": 938
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fd241508ddffb9746b6ceda55d7ef14c92177021b704f4e941676ffdcff8cbe6",
+        "sha256_in_prefix": "fd241508ddffb9746b6ceda55d7ef14c92177021b704f4e941676ffdcff8cbe6",
+        "size_in_bytes": 7525
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c4e695434e38b77ab965f6d91e48902f41e846d871fa13f1cf6dc8fb46984349",
+        "sha256_in_prefix": "c4e695434e38b77ab965f6d91e48902f41e846d871fa13f1cf6dc8fb46984349",
+        "size_in_bytes": 34994
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e0976a3dab8f775190fbd168df88047744b684ae17a5d2c48aa24cc2cbb4e9af",
+        "sha256_in_prefix": "e0976a3dab8f775190fbd168df88047744b684ae17a5d2c48aa24cc2cbb4e9af",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend-0.23.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d9e2546fa0569fa8481eb9981063b645998c4a0c84f75b4e78b786bd8d0535af",
+        "sha256_in_prefix": "d9e2546fa0569fa8481eb9981063b645998c4a0c84f75b4e78b786bd8d0535af",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3a3f9f0d7c48929df938a05b9fa13a3a8cbb88f7c640fb8ef4cdec4810580096",
+        "sha256_in_prefix": "3a3f9f0d7c48929df938a05b9fa13a3a8cbb88f7c640fb8ef4cdec4810580096",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "98c2e6d38fac9b3da85f4af5cc71036af6cb7dd82fd3b285ac0bab9e7bc1f9c2",
+        "sha256_in_prefix": "98c2e6d38fac9b3da85f4af5cc71036af6cb7dd82fd3b285ac0bab9e7bc1f9c2",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "54b33d1ca71950abab850164be90eca72bc026a2d44b6d1d9922e556545df227",
+        "sha256_in_prefix": "54b33d1ca71950abab850164be90eca72bc026a2d44b6d1d9922e556545df227",
+        "size_in_bytes": 560
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7f13fb4c9965e980e12ea88d8de75c3dc74ae661ba91ff2d80a40a4f8f0847a2",
+        "sha256_in_prefix": "7f13fb4c9965e980e12ea88d8de75c3dc74ae661ba91ff2d80a40a4f8f0847a2",
+        "size_in_bytes": 662
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/_base_model.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0807510d58c0f008def134d5687a40945542a74a902f00376adb3c8945639537",
+        "sha256_in_prefix": "0807510d58c0f008def134d5687a40945542a74a902f00376adb3c8945639537",
+        "size_in_bytes": 6769
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/_classifier.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "98298a723955ddf11a3a0999501cae11750d43ff4d12e04a552e95805b18d691",
+        "sha256_in_prefix": "98298a723955ddf11a3a0999501cae11750d43ff4d12e04a552e95805b18d691",
+        "size_in_bytes": 4670
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/_cluster.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8208342b9403c5819f4c676d8edd876e81daecf3318818647178388ec5cbfc4e",
+        "sha256_in_prefix": "8208342b9403c5819f4c676d8edd876e81daecf3318818647178388ec5cbfc4e",
+        "size_in_bytes": 2644
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/_iterative_model.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c163af5191d73a4d089b48b9832bf5c7307ff752ab8f4eb854803db082452cc",
+        "sha256_in_prefix": "9c163af5191d73a4d089b48b9832bf5c7307ff752ab8f4eb854803db082452cc",
+        "size_in_bytes": 4655
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/_multiclass.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "03dafaa3bdfdf75607d5d1c8e90982e1d02d22ab87433fa191d4ff32e7030312",
+        "sha256_in_prefix": "03dafaa3bdfdf75607d5d1c8e90982e1d02d22ab87433fa191d4ff32e7030312",
+        "size_in_bytes": 1624
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/_multilayer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1879bc4c2a0550276350dd005a2690673e5b02d765abb75546abfd61aa9d5d30",
+        "sha256_in_prefix": "1879bc4c2a0550276350dd005a2690673e5b02d765abb75546abfd61aa9d5d30",
+        "size_in_bytes": 3162
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/__pycache__/_regressor.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "70fa46b3eb135a8e7120b520c8e487d7f405c973dfc63e8fb7671eaa6e0ae07f",
+        "sha256_in_prefix": "70fa46b3eb135a8e7120b520c8e487d7f405c973dfc63e8fb7671eaa6e0ae07f",
+        "size_in_bytes": 3270
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/_base_model.py",
+        "path_type": "hardlink",
+        "sha256": "70885bd5d27f722f5cf8acfab27584a20c0fe26276e60cd235385ddd47b89f1b",
+        "sha256_in_prefix": "70885bd5d27f722f5cf8acfab27584a20c0fe26276e60cd235385ddd47b89f1b",
+        "size_in_bytes": 4986
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/_classifier.py",
+        "path_type": "hardlink",
+        "sha256": "6dab10a6b5c0595b4daa58a428cab9d31524b093548628731538cfad27ec7ba4",
+        "sha256_in_prefix": "6dab10a6b5c0595b4daa58a428cab9d31524b093548628731538cfad27ec7ba4",
+        "size_in_bytes": 3280
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/_cluster.py",
+        "path_type": "hardlink",
+        "sha256": "37040f57c07441a498dd77d664e5bf86d9fac7c579edee5a1de5ed9020bb3f9a",
+        "sha256_in_prefix": "37040f57c07441a498dd77d664e5bf86d9fac7c579edee5a1de5ed9020bb3f9a",
+        "size_in_bytes": 1819
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/_iterative_model.py",
+        "path_type": "hardlink",
+        "sha256": "6c6899e28fd524e7b4a95d730cca27b487ae6dc7df483db34a3edb194f1408fe",
+        "sha256_in_prefix": "6c6899e28fd524e7b4a95d730cca27b487ae6dc7df483db34a3edb194f1408fe",
+        "size_in_bytes": 2929
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/_multiclass.py",
+        "path_type": "hardlink",
+        "sha256": "001d85050bfc353f8407e18a91f86c4a9b854a0fef97a571aa7286132fd629be",
+        "sha256_in_prefix": "001d85050bfc353f8407e18a91f86c4a9b854a0fef97a571aa7286132fd629be",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/_multilayer.py",
+        "path_type": "hardlink",
+        "sha256": "5a78dea0c214adacec94f790b25d05e860ac48d1b5f1e46700a8608c2ba99897",
+        "sha256_in_prefix": "5a78dea0c214adacec94f790b25d05e860ac48d1b5f1e46700a8608c2ba99897",
+        "size_in_bytes": 2242
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/_regressor.py",
+        "path_type": "hardlink",
+        "sha256": "5593ec5a52bdcf3c4549dce3d60e8c5f596fd9d53020c70f07a1ce294ebcef84",
+        "sha256_in_prefix": "5593ec5a52bdcf3c4549dce3d60e8c5f596fd9d53020c70f07a1ce294ebcef84",
+        "size_in_bytes": 2131
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_base_model.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8bf746609b79ad47d9a79b268fec0d5f840ca63ca429a403eb0800a1444a2583",
+        "sha256_in_prefix": "8bf746609b79ad47d9a79b268fec0d5f840ca63ca429a403eb0800a1444a2583",
+        "size_in_bytes": 2347
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_classifier.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7758fb42f54d734db29a384e8ae620069873d58ad6a78bb2c3bc09e26f151f53",
+        "sha256_in_prefix": "7758fb42f54d734db29a384e8ae620069873d58ad6a78bb2c3bc09e26f151f53",
+        "size_in_bytes": 6734
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_cluster.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1fc1346ea717f241272418c858bd318def80b1eae3c0c9e3d6d519fb228079d3",
+        "sha256_in_prefix": "1fc1346ea717f241272418c858bd318def80b1eae3c0c9e3d6d519fb228079d3",
+        "size_in_bytes": 7006
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_iterative_model.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "70518537c8cdbaea1f72de3a51d080f27e56d07b4c44dc2bd005c40b2cdf9078",
+        "sha256_in_prefix": "70518537c8cdbaea1f72de3a51d080f27e56d07b4c44dc2bd005c40b2cdf9078",
+        "size_in_bytes": 6267
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_multiclass.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "681e9bfb959118c6ae0d7b86b87684a864b26c9150cbde60d34e72cb0404a661",
+        "sha256_in_prefix": "681e9bfb959118c6ae0d7b86b87684a864b26c9150cbde60d34e72cb0404a661",
+        "size_in_bytes": 2697
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_multilayer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa53d8fa164847296574faedddd47455d47338559c8ad9909533f3f3ff1458b0",
+        "sha256_in_prefix": "fa53d8fa164847296574faedddd47455d47338559c8ad9909533f3f3ff1458b0",
+        "size_in_bytes": 3741
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/__pycache__/test_regressor.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c662a529bfa6252e1ce8822c216877bbd3e63f08d76700e353354b855c50b6d0",
+        "sha256_in_prefix": "c662a529bfa6252e1ce8822c216877bbd3e63f08d76700e353354b855c50b6d0",
+        "size_in_bytes": 3708
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/test_base_model.py",
+        "path_type": "hardlink",
+        "sha256": "92dbc408f7ebf5f24804a072f6ea499db830113eb1bc168317b5d8944ec2be84",
+        "sha256_in_prefix": "92dbc408f7ebf5f24804a072f6ea499db830113eb1bc168317b5d8944ec2be84",
+        "size_in_bytes": 1130
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/test_classifier.py",
+        "path_type": "hardlink",
+        "sha256": "6dd7a9adb47e8b00073883466de8685727e86a2abd48de30ad4dfe1087b82fb6",
+        "sha256_in_prefix": "6dd7a9adb47e8b00073883466de8685727e86a2abd48de30ad4dfe1087b82fb6",
+        "size_in_bytes": 2886
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/test_cluster.py",
+        "path_type": "hardlink",
+        "sha256": "2fb46be37e258639c7e769d89c30ec39dc261c28fc70ee7edbc25be1881dcdc6",
+        "sha256_in_prefix": "2fb46be37e258639c7e769d89c30ec39dc261c28fc70ee7edbc25be1881dcdc6",
+        "size_in_bytes": 2997
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/test_iterative_model.py",
+        "path_type": "hardlink",
+        "sha256": "101d677d4620f261f9220458382e3e094b7d2a8f62edbb4f70f4517177d00cf6",
+        "sha256_in_prefix": "101d677d4620f261f9220458382e3e094b7d2a8f62edbb4f70f4517177d00cf6",
+        "size_in_bytes": 2759
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/test_multiclass.py",
+        "path_type": "hardlink",
+        "sha256": "f2f1fb918cdd34c65b87b20918f4f20aca8bc7dafd2075c1236981af11086875",
+        "sha256_in_prefix": "f2f1fb918cdd34c65b87b20918f4f20aca8bc7dafd2075c1236981af11086875",
+        "size_in_bytes": 1394
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/test_multilayer.py",
+        "path_type": "hardlink",
+        "sha256": "6611218440b6d03fdb999110e9733990adea9f40a7a3865a278a5d20b6d86413",
+        "sha256_in_prefix": "6611218440b6d03fdb999110e9733990adea9f40a7a3865a278a5d20b6d86413",
+        "size_in_bytes": 1854
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/_base/tests/test_regressor.py",
+        "path_type": "hardlink",
+        "sha256": "aa66530ca90de127a125b438268c662da872cbd7be8fda10fe176df29f7a01d3",
+        "sha256_in_prefix": "aa66530ca90de127a125b438268c662da872cbd7be8fda10fe176df29f7a01d3",
+        "size_in_bytes": 1482
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f494894ff382207834a53e3c8c3e2e7d074c0a2c60eda51ff14933b40609de9b",
+        "sha256_in_prefix": "f494894ff382207834a53e3c8c3e2e7d074c0a2c60eda51ff14933b40609de9b",
+        "size_in_bytes": 808
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5979830d6d4211ad62f7b2c57fd92d12832b4dce36e1aca74a0576261bf9e942",
+        "sha256_in_prefix": "5979830d6d4211ad62f7b2c57fd92d12832b4dce36e1aca74a0576261bf9e942",
+        "size_in_bytes": 891
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/_base_classification.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "be5f90455eaa7b9c719571ccc71772579311db566da129e4f438284fb1d832fc",
+        "sha256_in_prefix": "be5f90455eaa7b9c719571ccc71772579311db566da129e4f438284fb1d832fc",
+        "size_in_bytes": 3849
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/adaline.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c5bcc5b22a6fc072cc79e89def47a7e7837836eb009f01f64237fbffd990cc79",
+        "sha256_in_prefix": "c5bcc5b22a6fc072cc79e89def47a7e7837836eb009f01f64237fbffd990cc79",
+        "size_in_bytes": 6800
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/ensemble_vote.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5ade245572de04e828da26f04973c3045df61ebfb84ad1ee1b5a281dfa3e1c29",
+        "sha256_in_prefix": "5ade245572de04e828da26f04973c3045df61ebfb84ad1ee1b5a281dfa3e1c29",
+        "size_in_bytes": 15559
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/logistic_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a800c52352d87d2d42a00d1be5fd4656b79e31484710eec056ee979fd6a5bdb",
+        "sha256_in_prefix": "6a800c52352d87d2d42a00d1be5fd4656b79e31484710eec056ee979fd6a5bdb",
+        "size_in_bytes": 7762
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/multilayerperceptron.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0cd5b6b5e310162688e384f1ca03fd315a9d66897a705e75d1bca0395f51b73d",
+        "sha256_in_prefix": "0cd5b6b5e310162688e384f1ca03fd315a9d66897a705e75d1bca0395f51b73d",
+        "size_in_bytes": 12545
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/oner.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8530cfea2524cf33711b471660c9af9c78194172cc943758639565f94f9a35f",
+        "sha256_in_prefix": "b8530cfea2524cf33711b471660c9af9c78194172cc943758639565f94f9a35f",
+        "size_in_bytes": 8036
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/perceptron.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8628d73fbf2f75d585c327ef0ff393bb84687905bf27337609eea31ef41e5977",
+        "sha256_in_prefix": "8628d73fbf2f75d585c327ef0ff393bb84687905bf27337609eea31ef41e5977",
+        "size_in_bytes": 5021
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/softmax_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "31726d7c695a3adf819187eb3d72a913c82f733955355a69d06e5a7b87de902a",
+        "sha256_in_prefix": "31726d7c695a3adf819187eb3d72a913c82f733955355a69d06e5a7b87de902a",
+        "size_in_bytes": 8685
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/stacking_classification.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "31bd52d10e75c664561d67fa26c48d5ab4d8a3503a5d78129e89a62753003ac0",
+        "sha256_in_prefix": "31bd52d10e75c664561d67fa26c48d5ab4d8a3503a5d78129e89a62753003ac0",
+        "size_in_bytes": 12649
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/__pycache__/stacking_cv_classification.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a1dbfe0a2af13138bfc6253407e31cda97774d9d12cefd53564745555e6361f",
+        "sha256_in_prefix": "2a1dbfe0a2af13138bfc6253407e31cda97774d9d12cefd53564745555e6361f",
+        "size_in_bytes": 14773
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/_base_classification.py",
+        "path_type": "hardlink",
+        "sha256": "578560caeb991af7c2a71f41817607680b52af96696c74e5d2191e52967f8bca",
+        "sha256_in_prefix": "578560caeb991af7c2a71f41817607680b52af96696c74e5d2191e52967f8bca",
+        "size_in_bytes": 2593
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/adaline.py",
+        "path_type": "hardlink",
+        "sha256": "9904a11543f7aede3b3480d92bba0c0ebcfad4aaf89a2c0803469cb877a4abf0",
+        "sha256_in_prefix": "9904a11543f7aede3b3480d92bba0c0ebcfad4aaf89a2c0803469cb877a4abf0",
+        "size_in_bytes": 4450
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/ensemble_vote.py",
+        "path_type": "hardlink",
+        "sha256": "4aefd96a98ba348192b8cc0c848ec43688d3bfe653cee6687de7bf66490b063b",
+        "sha256_in_prefix": "4aefd96a98ba348192b8cc0c848ec43688d3bfe653cee6687de7bf66490b063b",
+        "size_in_bytes": 11748
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/logistic_regression.py",
+        "path_type": "hardlink",
+        "sha256": "c952eac6c979158f11e75f54c9af9c8ddc19eff05bfb6ef8688d96ab1abfd412",
+        "sha256_in_prefix": "c952eac6c979158f11e75f54c9af9c8ddc19eff05bfb6ef8688d96ab1abfd412",
+        "size_in_bytes": 5242
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/multilayerperceptron.py",
+        "path_type": "hardlink",
+        "sha256": "14296ae1e5ef18ef3ca095e2855daec83eafa680e86183aa2577a1ca3558e988",
+        "sha256_in_prefix": "14296ae1e5ef18ef3ca095e2855daec83eafa680e86183aa2577a1ca3558e988",
+        "size_in_bytes": 9999
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/oner.py",
+        "path_type": "hardlink",
+        "sha256": "4242de81c3b9461fd541cacf97a923fd2261505ad015a2b7cc2571d55d83f590",
+        "sha256_in_prefix": "4242de81c3b9461fd541cacf97a923fd2261505ad015a2b7cc2571d55d83f590",
+        "size_in_bytes": 8522
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/perceptron.py",
+        "path_type": "hardlink",
+        "sha256": "d1fb309bdf473b3bafb99836951410fe2c53a2a26c0591a13668d9dcaecd2c0b",
+        "sha256_in_prefix": "d1fb309bdf473b3bafb99836951410fe2c53a2a26c0591a13668d9dcaecd2c0b",
+        "size_in_bytes": 3235
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/softmax_regression.py",
+        "path_type": "hardlink",
+        "sha256": "e13a637b5f989807d2f874195697695596ecc6f2114442b2cc62a8eb2693f665",
+        "sha256_in_prefix": "e13a637b5f989807d2f874195697695596ecc6f2114442b2cc62a8eb2693f665",
+        "size_in_bytes": 6212
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/stacking_classification.py",
+        "path_type": "hardlink",
+        "sha256": "0074b2b41d67a9b881a6fcf58c35b56caee8f75aaebba3f697ec5c13068eae21",
+        "sha256_in_prefix": "0074b2b41d67a9b881a6fcf58c35b56caee8f75aaebba3f697ec5c13068eae21",
+        "size_in_bytes": 10327
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/stacking_cv_classification.py",
+        "path_type": "hardlink",
+        "sha256": "21e70c5afcfd507b6a883147396a04d3f2308750f9fe0be67e760d9acc531456",
+        "sha256_in_prefix": "21e70c5afcfd507b6a883147396a04d3f2308750f9fe0be67e760d9acc531456",
+        "size_in_bytes": 14002
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_adaline.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "22d50fc3f21a09f99199fe267872b5f9e7a94ecdf27ef4d5eda720e48ae40fec",
+        "sha256_in_prefix": "22d50fc3f21a09f99199fe267872b5f9e7a94ecdf27ef4d5eda720e48ae40fec",
+        "size_in_bytes": 7978
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_ensemble_vote_classifier.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b74105f652a050f5d7b3ff79b1fef7a54963c9d4975c25a6265c7304516f2ea3",
+        "sha256_in_prefix": "b74105f652a050f5d7b3ff79b1fef7a54963c9d4975c25a6265c7304516f2ea3",
+        "size_in_bytes": 18991
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_logistic_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "371410cbdb7340f6f12fe29a5af304f1a35a07f969919a43cdee532033016856",
+        "sha256_in_prefix": "371410cbdb7340f6f12fe29a5af304f1a35a07f969919a43cdee532033016856",
+        "size_in_bytes": 10407
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_multilayerperceptron.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "36fa72b8a259b4604093bef82d75cfe8bed2b9706d16a16b620d1fb1e303c5fc",
+        "sha256_in_prefix": "36fa72b8a259b4604093bef82d75cfe8bed2b9706d16a16b620d1fb1e303c5fc",
+        "size_in_bytes": 9287
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_oner.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5d6c195760d3c239389ea888b81c77bfe516c1652581992e122d03233a5d3f10",
+        "sha256_in_prefix": "5d6c195760d3c239389ea888b81c77bfe516c1652581992e122d03233a5d3f10",
+        "size_in_bytes": 4403
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_perceptron.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "17cd4d2cc2c71c9f21e4b2346dd705537e0989468ff9366be049639fae735bf9",
+        "sha256_in_prefix": "17cd4d2cc2c71c9f21e4b2346dd705537e0989468ff9366be049639fae735bf9",
+        "size_in_bytes": 4981
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_softmax_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1da9f70011a998b2c4bb70dbe347da204b6d9c59008d1a556df8d6e011682a03",
+        "sha256_in_prefix": "1da9f70011a998b2c4bb70dbe347da204b6d9c59008d1a556df8d6e011682a03",
+        "size_in_bytes": 8826
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_stacking_classifier.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8fb72dbc591744950d5fc8d27e3f52349af55c473390554ac24117ab806f6089",
+        "sha256_in_prefix": "8fb72dbc591744950d5fc8d27e3f52349af55c473390554ac24117ab806f6089",
+        "size_in_bytes": 30723
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/__pycache__/test_stacking_cv_classifier.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb1d710010c85ef02ef0680517687d3540fa3c79560355388bc6ef4c4afe117d",
+        "sha256_in_prefix": "fb1d710010c85ef02ef0680517687d3540fa3c79560355388bc6ef4c4afe117d",
+        "size_in_bytes": 33110
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_adaline.py",
+        "path_type": "hardlink",
+        "sha256": "46ebd904dc8f3500a0a149e20f8081602f1f008f57f9d6a287820364c9511f74",
+        "sha256_in_prefix": "46ebd904dc8f3500a0a149e20f8081602f1f008f57f9d6a287820364c9511f74",
+        "size_in_bytes": 3429
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_ensemble_vote_classifier.py",
+        "path_type": "hardlink",
+        "sha256": "94f71efaf8e795542b6d8a570206496987eefba7e73ef1e54f8bb97f6406f2bd",
+        "sha256_in_prefix": "94f71efaf8e795542b6d8a570206496987eefba7e73ef1e54f8bb97f6406f2bd",
+        "size_in_bytes": 9947
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_logistic_regression.py",
+        "path_type": "hardlink",
+        "sha256": "9c7b39bcd7014ae9b17685d5cca300a7a4a63a88e6871f26510ab691d2206d0a",
+        "sha256_in_prefix": "9c7b39bcd7014ae9b17685d5cca300a7a4a63a88e6871f26510ab691d2206d0a",
+        "size_in_bytes": 4601
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_multilayerperceptron.py",
+        "path_type": "hardlink",
+        "sha256": "7f061d4113489cc6a5f6244fcfdc4f772b7e060bfc0e0afce74f8d284402d0ab",
+        "sha256_in_prefix": "7f061d4113489cc6a5f6244fcfdc4f772b7e060bfc0e0afce74f8d284402d0ab",
+        "size_in_bytes": 4028
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_oner.py",
+        "path_type": "hardlink",
+        "sha256": "16faee2b37cc4f0937ab44f40690474cf62559aaa6d45ffc64baf99648136da3",
+        "sha256_in_prefix": "16faee2b37cc4f0937ab44f40690474cf62559aaa6d45ffc64baf99648136da3",
+        "size_in_bytes": 2118
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_perceptron.py",
+        "path_type": "hardlink",
+        "sha256": "27a6b6e37af0a64cc4b364d7dee533bd678f1fd50c4d564f6790f8c28bdf6569",
+        "sha256_in_prefix": "27a6b6e37af0a64cc4b364d7dee533bd678f1fd50c4d564f6790f8c28bdf6569",
+        "size_in_bytes": 2260
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_softmax_regression.py",
+        "path_type": "hardlink",
+        "sha256": "98a7e9a554899ccab1526873b12b6be9f39c54861cdb449ab143270b0665f5fb",
+        "sha256_in_prefix": "98a7e9a554899ccab1526873b12b6be9f39c54861cdb449ab143270b0665f5fb",
+        "size_in_bytes": 3896
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_stacking_classifier.py",
+        "path_type": "hardlink",
+        "sha256": "d81695900979914e6cc79ad80c83facb079ba551394b9a1e8bd9845a61024ea7",
+        "sha256_in_prefix": "d81695900979914e6cc79ad80c83facb079ba551394b9a1e8bd9845a61024ea7",
+        "size_in_bytes": 18119
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/classifier/tests/test_stacking_cv_classifier.py",
+        "path_type": "hardlink",
+        "sha256": "b45f69e7ee925d02d6b6046131c28fa1f85547d9ed722f5feca5def49ccfa750",
+        "sha256_in_prefix": "b45f69e7ee925d02d6b6046131c28fa1f85547d9ed722f5feca5def49ccfa750",
+        "size_in_bytes": 21116
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/cluster/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "78e04fa5e54d98686015003599231e76161bedddd656ab38b33bbb2c1a1850a4",
+        "sha256_in_prefix": "78e04fa5e54d98686015003599231e76161bedddd656ab38b33bbb2c1a1850a4",
+        "size_in_bytes": 203
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/cluster/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f53c5782e1143cadde58415016158deaf5af1290c68c60ef746974382507f91",
+        "sha256_in_prefix": "5f53c5782e1143cadde58415016158deaf5af1290c68c60ef746974382507f91",
+        "size_in_bytes": 232
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/cluster/__pycache__/kmeans.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b3c1c746048c5e89d2220de7cec1f0f7e09dff4cadd8a78d888abf584f185dd0",
+        "sha256_in_prefix": "b3c1c746048c5e89d2220de7cec1f0f7e09dff4cadd8a78d888abf584f185dd0",
+        "size_in_bytes": 6091
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/cluster/kmeans.py",
+        "path_type": "hardlink",
+        "sha256": "f65eabe9220b48cb83201e2ef4e27e53cbb7674e2f1abe68994948a0f66efe59",
+        "sha256_in_prefix": "f65eabe9220b48cb83201e2ef4e27e53cbb7674e2f1abe68994948a0f66efe59",
+        "size_in_bytes": 4403
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/cluster/tests/__pycache__/test_kmeans.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "08d9ebdc4fb84b48ecce04b4aea4e9fea6a1b7f00fed59ec1c091043b1efd4b5",
+        "sha256_in_prefix": "08d9ebdc4fb84b48ecce04b4aea4e9fea6a1b7f00fed59ec1c091043b1efd4b5",
+        "size_in_bytes": 4783
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/cluster/tests/test_kmeans.py",
+        "path_type": "hardlink",
+        "sha256": "5c87458c30ca01dcfba3b5444b3da05141f189e6c6dd28bc38fc29fd41ad5482",
+        "sha256_in_prefix": "5c87458c30ca01dcfba3b5444b3da05141f189e6c6dd28bc38fc29fd41ad5482",
+        "size_in_bytes": 2226
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "574c304ede66d0a648de85de8d002a93961e5c552ba4056216e52a49824a4049",
+        "sha256_in_prefix": "574c304ede66d0a648de85de8d002a93961e5c552ba4056216e52a49824a4049",
+        "size_in_bytes": 648
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f029cf98661d497054d32848fd40520fb123abb7bdc036c649d9030d74624b5",
+        "sha256_in_prefix": "5f029cf98661d497054d32848fd40520fb123abb7bdc036c649d9030d74624b5",
+        "size_in_bytes": 734
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/autompg.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a13d9f29dc513866704cc2527f1e0daf41c4ae2f0a8ba51e41dc94fc24060f0b",
+        "sha256_in_prefix": "a13d9f29dc513866704cc2527f1e0daf41c4ae2f0a8ba51e41dc94fc24060f0b",
+        "size_in_bytes": 1715
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/boston_housing.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "aa9c4ba7a9cbae570a67d7a2286e5e371a36a11c38039885ae4fcfd5a5fb6dcc",
+        "sha256_in_prefix": "aa9c4ba7a9cbae570a67d7a2286e5e371a36a11c38039885ae4fcfd5a5fb6dcc",
+        "size_in_bytes": 2431
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/iris.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b0ce1737c963bcf1d1716d9a806c787bd030c7c3dd36d3012d244a6f52cd824",
+        "sha256_in_prefix": "2b0ce1737c963bcf1d1716d9a806c787bd030c7c3dd36d3012d244a6f52cd824",
+        "size_in_bytes": 3242
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/local_mnist.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ce66a46a41a235304a8cb13b61414b85b60cc289caa448ff2160b82fab5b23f",
+        "sha256_in_prefix": "9ce66a46a41a235304a8cb13b61414b85b60cc289caa448ff2160b82fab5b23f",
+        "size_in_bytes": 1990
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/mnist.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a4ad3217f405f7cca296096f935da5ee41752b61080ea1087791bce2019ff491",
+        "sha256_in_prefix": "a4ad3217f405f7cca296096f935da5ee41752b61080ea1087791bce2019ff491",
+        "size_in_bytes": 1429
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/multiplexer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b7d2aa6a28b8a8a9852e831c7706a2ebd79a821c9fd9c1a5c89ff57c620c2ad5",
+        "sha256_in_prefix": "b7d2aa6a28b8a8a9852e831c7706a2ebd79a821c9fd9c1a5c89ff57c620c2ad5",
+        "size_in_bytes": 5677
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/three_blobs.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5dac3951bb1868d7e974595961e75efff601ccd32a73fc8c69ff9cd45cea058c",
+        "sha256_in_prefix": "5dac3951bb1868d7e974595961e75efff601ccd32a73fc8c69ff9cd45cea058c",
+        "size_in_bytes": 1426
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/__pycache__/wine.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "101ab3a05564aa42a510ec0b87f736d2c02f448f2f11209f61bc13cf8e4fe865",
+        "sha256_in_prefix": "101ab3a05564aa42a510ec0b87f736d2c02f448f2f11209f61bc13cf8e4fe865",
+        "size_in_bytes": 1767
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/autompg.py",
+        "path_type": "hardlink",
+        "sha256": "c17df5fc777e86be38f76418319b2b8d1374c20b254552bf94b5c6fe6a0e44ef",
+        "sha256_in_prefix": "c17df5fc777e86be38f76418319b2b8d1374c20b254552bf94b5c6fe6a0e44ef",
+        "size_in_bytes": 1398
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/boston_housing.py",
+        "path_type": "hardlink",
+        "sha256": "f1aa9e5c05e01f48dbf464ffcb073f48f1976693fe0f6cc148db2b3ff04e2936",
+        "sha256_in_prefix": "f1aa9e5c05e01f48dbf464ffcb073f48f1976693fe0f6cc148db2b3ff04e2936",
+        "size_in_bytes": 2099
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/data/autompg.csv.gz",
+        "path_type": "hardlink",
+        "sha256": "deb41efe69faf7bcbae72a2e4f0eb1dfed9b2151171251ae64c67ed8da33eec3",
+        "sha256_in_prefix": "deb41efe69faf7bcbae72a2e4f0eb1dfed9b2151171251ae64c67ed8da33eec3",
+        "size_in_bytes": 6267
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/data/boston_housing.csv",
+        "path_type": "hardlink",
+        "sha256": "8594f084258ead302f20a7479463f7a7584d33fe00042d442a7101530c8b46de",
+        "sha256_in_prefix": "8594f084258ead302f20a7479463f7a7584d33fe00042d442a7101530c8b46de",
+        "size_in_bytes": 177100
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/data/iris.csv.gz",
+        "path_type": "hardlink",
+        "sha256": "188753cae3fdedccc4968fe37caf5834d53ae53066872d5aa4a2b91a10c19b6b",
+        "sha256_in_prefix": "188753cae3fdedccc4968fe37caf5834d53ae53066872d5aa4a2b91a10c19b6b",
+        "size_in_bytes": 747
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/data/mnist_5k.csv.gz",
+        "path_type": "hardlink",
+        "sha256": "846f6cad587fea3877f6e0fe0a1968dfc68867ce170d3bc9fc2dccdbed17961d",
+        "sha256_in_prefix": "846f6cad587fea3877f6e0fe0a1968dfc68867ce170d3bc9fc2dccdbed17961d",
+        "size_in_bytes": 1106785
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/data/three_blobs.csv.gz",
+        "path_type": "hardlink",
+        "sha256": "e5932af7641a8256e66e593c6159d8bcc154bdcd3b583de8e8889b9a7ded09cb",
+        "sha256_in_prefix": "e5932af7641a8256e66e593c6159d8bcc154bdcd3b583de8e8889b9a7ded09cb",
+        "size_in_bytes": 2879
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/data/wine.csv",
+        "path_type": "hardlink",
+        "sha256": "00248251000fceabd40026c200efdafac7c0e54a5d34cd08a2b333e19c8fa3a9",
+        "sha256_in_prefix": "00248251000fceabd40026c200efdafac7c0e54a5d34cd08a2b333e19c8fa3a9",
+        "size_in_bytes": 12412
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/iris.py",
+        "path_type": "hardlink",
+        "sha256": "58088cd548a9cc13f0d2a2bde09b4447e600ce0224c00d45123b8a5c92bc78ef",
+        "sha256_in_prefix": "58088cd548a9cc13f0d2a2bde09b4447e600ce0224c00d45123b8a5c92bc78ef",
+        "size_in_bytes": 2662
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/local_mnist.py",
+        "path_type": "hardlink",
+        "sha256": "28d33e8e3a5edcd52a13758dc211b8ef2c6889380a27ebb49dca2384be6e32ef",
+        "sha256_in_prefix": "28d33e8e3a5edcd52a13758dc211b8ef2c6889380a27ebb49dca2384be6e32ef",
+        "size_in_bytes": 1212
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/mnist.py",
+        "path_type": "hardlink",
+        "sha256": "6406f8a9e491daa9a8ccbf7c5200139020881e0b5761b367df1f8fb58f499aa7",
+        "sha256_in_prefix": "6406f8a9e491daa9a8ccbf7c5200139020881e0b5761b367df1f8fb58f499aa7",
+        "size_in_bytes": 1047
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/multiplexer.py",
+        "path_type": "hardlink",
+        "sha256": "922a06bf6d3c37a648ba46078d8ea19dc6fcad04a3d6a307b55628090d26dcfd",
+        "sha256_in_prefix": "922a06bf6d3c37a648ba46078d8ea19dc6fcad04a3d6a307b55628090d26dcfd",
+        "size_in_bytes": 4140
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/tests/__pycache__/test_datasets.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0c3aa8a88bb3a265e6548fcb3832b4ce3b83e559c17a083b1231731a38869cf8",
+        "sha256_in_prefix": "0c3aa8a88bb3a265e6548fcb3832b4ce3b83e559c17a083b1231731a38869cf8",
+        "size_in_bytes": 2834
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/tests/__pycache__/test_iris.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1494f839ad7d2aeb4e2f26eb1015e13fd965f9d5f46f2f7bf61e52502aa1b869",
+        "sha256_in_prefix": "1494f839ad7d2aeb4e2f26eb1015e13fd965f9d5f46f2f7bf61e52502aa1b869",
+        "size_in_bytes": 2716
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/tests/__pycache__/test_multiplexer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0b48bacfe3d476ca36e89ff5d3db64179b461be2479c582c976081f2934078ae",
+        "sha256_in_prefix": "0b48bacfe3d476ca36e89ff5d3db64179b461be2479c582c976081f2934078ae",
+        "size_in_bytes": 4397
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/tests/test_datasets.py",
+        "path_type": "hardlink",
+        "sha256": "105592668b823956e4c43eb6c5f585feebeacbb694b9063e7a9b74f5b2e50369",
+        "sha256_in_prefix": "105592668b823956e4c43eb6c5f585feebeacbb694b9063e7a9b74f5b2e50369",
+        "size_in_bytes": 1193
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/tests/test_iris.py",
+        "path_type": "hardlink",
+        "sha256": "419ba9576df7012563c247c48cddbbb46ef6c80782834f57d2ea9bfdcc579dd5",
+        "sha256_in_prefix": "419ba9576df7012563c247c48cddbbb46ef6c80782834f57d2ea9bfdcc579dd5",
+        "size_in_bytes": 1245
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/tests/test_multiplexer.py",
+        "path_type": "hardlink",
+        "sha256": "0e71c6d3b502dc3ee54a3fcde34402614385610ddf21d8b1a71fe38e3a6ac952",
+        "sha256_in_prefix": "0e71c6d3b502dc3ee54a3fcde34402614385610ddf21d8b1a71fe38e3a6ac952",
+        "size_in_bytes": 2620
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/three_blobs.py",
+        "path_type": "hardlink",
+        "sha256": "751567caf661258a1108d915b1628ee222511ca3e16cd77522bccf20d46c18ac",
+        "sha256_in_prefix": "751567caf661258a1108d915b1628ee222511ca3e16cd77522bccf20d46c18ac",
+        "size_in_bytes": 1059
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/data/wine.py",
+        "path_type": "hardlink",
+        "sha256": "bc04faad4bc480760c53942b0739284fa838e3e7101bdff90852bb612bab5af1",
+        "sha256_in_prefix": "bc04faad4bc480760c53942b0739284fa838e3e7101bdff90852bb612bab5af1",
+        "size_in_bytes": 1394
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ad9584dcac7f6180ed6de7e674b0b950af3edc852ae33711f69550e3fcd56f99",
+        "sha256_in_prefix": "ad9584dcac7f6180ed6de7e674b0b950af3edc852ae33711f69550e3fcd56f99",
+        "size_in_bytes": 1650
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "26363eccfa9bad2b4e321b5126617a6b399ad8beec1c7d193a327a78f6b32b20",
+        "sha256_in_prefix": "26363eccfa9bad2b4e321b5126617a6b399ad8beec1c7d193a327a78f6b32b20",
+        "size_in_bytes": 1644
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/accuracy.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "243e30dd578f1a0eceefa6a95ea545a50570e9c218e159b3133c5a1e63f60bc9",
+        "sha256_in_prefix": "243e30dd578f1a0eceefa6a95ea545a50570e9c218e159b3133c5a1e63f60bc9",
+        "size_in_bytes": 3994
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/bias_variance_decomp.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5eb237395ccdf61a586334c79f7785edc7f34491c6ebcd6244426ec17c4be3ec",
+        "sha256_in_prefix": "5eb237395ccdf61a586334c79f7785edc7f34491c6ebcd6244426ec17c4be3ec",
+        "size_in_bytes": 7145
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/bootstrap.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c15192d8d9042b346108e571a007c87a07e6af3e15ec11efc1841bb221d56c11",
+        "sha256_in_prefix": "c15192d8d9042b346108e571a007c87a07e6af3e15ec11efc1841bb221d56c11",
+        "size_in_bytes": 4764
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/bootstrap_outofbag.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6723613a7c56142382bbd9af572a9b88cb6c9c9a62d9f87660ae71556b98c63",
+        "sha256_in_prefix": "c6723613a7c56142382bbd9af572a9b88cb6c9c9a62d9f87660ae71556b98c63",
+        "size_in_bytes": 3508
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/bootstrap_point632.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "82b1239b0299aec1f6a2abae2ad64a41ab79080dba4b57e9011bf20796b015f9",
+        "sha256_in_prefix": "82b1239b0299aec1f6a2abae2ad64a41ab79080dba4b57e9011bf20796b015f9",
+        "size_in_bytes": 8903
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/cochrans_q.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "46b31373e89416aa9df72addd6c9a35dbd99c66676fd7514b86207fdd86a9cef",
+        "sha256_in_prefix": "46b31373e89416aa9df72addd6c9a35dbd99c66676fd7514b86207fdd86a9cef",
+        "size_in_bytes": 3817
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/confusion_matrix.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f2149ae5ae485b57a026b496084667e6a786c781eb3c1e0634c293ca81ef60a1",
+        "sha256_in_prefix": "f2149ae5ae485b57a026b496084667e6a786c781eb3c1e0634c293ca81ef60a1",
+        "size_in_bytes": 2879
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/counterfactual.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0cf998ddfebd71fbe74951bef09ee33ace8d9575d92198ad304598a776469dc7",
+        "sha256_in_prefix": "0cf998ddfebd71fbe74951bef09ee33ace8d9575d92198ad304598a776469dc7",
+        "size_in_bytes": 4498
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/f_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a8b2ba58d423786469373c3944994da518f7eaee3982f40fca7cb5a4621f47f",
+        "sha256_in_prefix": "3a8b2ba58d423786469373c3944994da518f7eaee3982f40fca7cb5a4621f47f",
+        "size_in_bytes": 8671
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/feature_importance.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "778bd24217065b7507dd6ec411aaf3951417a6935b1ae3de59c772bca6997078",
+        "sha256_in_prefix": "778bd24217065b7507dd6ec411aaf3951417a6935b1ae3de59c772bca6997078",
+        "size_in_bytes": 5955
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/holdout.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5519d132a0ba4e26900dcc6e3cac07e415c52de5942c982a4ace8cbe34a90d33",
+        "sha256_in_prefix": "5519d132a0ba4e26900dcc6e3cac07e415c52de5942c982a4ace8cbe34a90d33",
+        "size_in_bytes": 6536
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/lift_score.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7a06146edf4fee5af9bf23016d6c1a556efa3fabed5189dffe2673388a67dd91",
+        "sha256_in_prefix": "7a06146edf4fee5af9bf23016d6c1a556efa3fabed5189dffe2673388a67dd91",
+        "size_in_bytes": 3952
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/mcnemar.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6542d7cd061d6095923f71084a37d1509d7adb72ad502a531c4316ca4c326d71",
+        "sha256_in_prefix": "6542d7cd061d6095923f71084a37d1509d7adb72ad502a531c4316ca4c326d71",
+        "size_in_bytes": 8965
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/permutation.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b3badad4996b952468378749899baf6cd876750dd7f8df5de1b1f97ce109b29d",
+        "sha256_in_prefix": "b3badad4996b952468378749899baf6cd876750dd7f8df5de1b1f97ce109b29d",
+        "size_in_bytes": 7004
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/proportion_difference.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e9a72dc6cf37b7411298ba988cc8efec92dd37a79016d4481a07a54d1d0ff694",
+        "sha256_in_prefix": "e9a72dc6cf37b7411298ba988cc8efec92dd37a79016d4481a07a54d1d0ff694",
+        "size_in_bytes": 1453
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/scoring.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b0b593395c55bb78ab77787d41125db97418b0aaaece439024a42160eb82b162",
+        "sha256_in_prefix": "b0b593395c55bb78ab77787d41125db97418b0aaaece439024a42160eb82b162",
+        "size_in_bytes": 6124
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/time_series.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1a27fe9eeb537733bebb1f5359aa66a52ff0f47040a10e63e7756416c9dcfaa8",
+        "sha256_in_prefix": "1a27fe9eeb537733bebb1f5359aa66a52ff0f47040a10e63e7756416c9dcfaa8",
+        "size_in_bytes": 14551
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/__pycache__/ttest.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f695af64d6f31f4fa4b02f5161dc6cd051947daf7bb0a8c291d3c86484acc3b",
+        "sha256_in_prefix": "2f695af64d6f31f4fa4b02f5161dc6cd051947daf7bb0a8c291d3c86484acc3b",
+        "size_in_bytes": 13171
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/accuracy.py",
+        "path_type": "hardlink",
+        "sha256": "bf69c47c4b01ebfbce69492e75f0966f72c11be7b2678917e91e09e1e59664c5",
+        "sha256_in_prefix": "bf69c47c4b01ebfbce69492e75f0966f72c11be7b2678917e91e09e1e59664c5",
+        "size_in_bytes": 3172
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/bias_variance_decomp.py",
+        "path_type": "hardlink",
+        "sha256": "1b4180288ae9629abb9d3f2eac2aa1cd6533fea0f82e0f5a74d0ac617bc9de99",
+        "sha256_in_prefix": "1b4180288ae9629abb9d3f2eac2aa1cd6533fea0f82e0f5a74d0ac617bc9de99",
+        "size_in_bytes": 5564
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/bootstrap.py",
+        "path_type": "hardlink",
+        "sha256": "d224c89d3eb638bb9bc95029ce20967b1916298dde825d13218b4561455bd10e",
+        "sha256_in_prefix": "d224c89d3eb638bb9bc95029ce20967b1916298dde825d13218b4561455bd10e",
+        "size_in_bytes": 3974
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/bootstrap_outofbag.py",
+        "path_type": "hardlink",
+        "sha256": "2fa309880526b1c6ce58e6ffe6841a5dcfdde4e9ec516de0b4abf971f9b070f6",
+        "sha256_in_prefix": "2fa309880526b1c6ce58e6ffe6841a5dcfdde4e9ec516de0b4abf971f9b070f6",
+        "size_in_bytes": 2506
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/bootstrap_point632.py",
+        "path_type": "hardlink",
+        "sha256": "7a17a7348e5e7333825da563797feda5bf1b799d4217fae244430e139f6539f3",
+        "sha256_in_prefix": "7a17a7348e5e7333825da563797feda5bf1b799d4217fae244430e139f6539f3",
+        "size_in_bytes": 8616
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/cochrans_q.py",
+        "path_type": "hardlink",
+        "sha256": "d3de247389ded08f62c36b319e1a4e664cffbab7b347bea3252ffc28825173e7",
+        "sha256_in_prefix": "d3de247389ded08f62c36b319e1a4e664cffbab7b347bea3252ffc28825173e7",
+        "size_in_bytes": 2735
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/confusion_matrix.py",
+        "path_type": "hardlink",
+        "sha256": "14e318dc6fcc69ac1ff2afa7de8514aac6188311837910f6ebed984e8b5fb46b",
+        "sha256_in_prefix": "14e318dc6fcc69ac1ff2afa7de8514aac6188311837910f6ebed984e8b5fb46b",
+        "size_in_bytes": 2144
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/counterfactual.py",
+        "path_type": "hardlink",
+        "sha256": "aae1fa70a55c1817af0523f83fb4840a8fecab480976dbb55dc5711e4231e297",
+        "sha256_in_prefix": "aae1fa70a55c1817af0523f83fb4840a8fecab480976dbb55dc5711e4231e297",
+        "size_in_bytes": 3796
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/f_test.py",
+        "path_type": "hardlink",
+        "sha256": "33fdacb78c971487583b90da60fef67f47d02295751940208fd0a9353691c9f8",
+        "sha256_in_prefix": "33fdacb78c971487583b90da60fef67f47d02295751940208fd0a9353691c9f8",
+        "size_in_bytes": 6679
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/feature_importance.py",
+        "path_type": "hardlink",
+        "sha256": "65255c40e359e271f8bf543d25fbf284bb4d5315b4e7bbde970593063a8ecc49",
+        "sha256_in_prefix": "65255c40e359e271f8bf543d25fbf284bb4d5315b4e7bbde970593063a8ecc49",
+        "size_in_bytes": 4859
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/holdout.py",
+        "path_type": "hardlink",
+        "sha256": "c60d494d5a8178185527f3c41e2d344d89f8cda0b35223ea1c6b8f3409192c22",
+        "sha256_in_prefix": "c60d494d5a8178185527f3c41e2d344d89f8cda0b35223ea1c6b8f3409192c22",
+        "size_in_bytes": 5796
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/lift_score.py",
+        "path_type": "hardlink",
+        "sha256": "0aa4d9b7d7373b0e4f8c461dc3377f9fbf47de1aa6c5a84aefc8085a8ade4581",
+        "sha256_in_prefix": "0aa4d9b7d7373b0e4f8c461dc3377f9fbf47de1aa6c5a84aefc8085a8ade4581",
+        "size_in_bytes": 3073
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/mcnemar.py",
+        "path_type": "hardlink",
+        "sha256": "47f315029ab21091aa1f4d31d7a52cb3a04aa9c84d472d3da160c9d9b21a7c11",
+        "sha256_in_prefix": "47f315029ab21091aa1f4d31d7a52cb3a04aa9c84d472d3da160c9d9b21a7c11",
+        "size_in_bytes": 7357
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/permutation.py",
+        "path_type": "hardlink",
+        "sha256": "e5980b0a6c83a5f85ce404a30bae486ebd45e9b54fa80ef891dc346a3564c9f3",
+        "sha256_in_prefix": "e5980b0a6c83a5f85ce404a30bae486ebd45e9b54fa80ef891dc346a3564c9f3",
+        "size_in_bytes": 6524
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/proportion_difference.py",
+        "path_type": "hardlink",
+        "sha256": "af15fe1e992703357ecb6fa64f1003096ace911a6248d924856cb973d968cf9d",
+        "sha256_in_prefix": "af15fe1e992703357ecb6fa64f1003096ace911a6248d924856cb973d968cf9d",
+        "size_in_bytes": 1204
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/scoring.py",
+        "path_type": "hardlink",
+        "sha256": "b2982f362cf4e004ba2e2a78e69135e31f8d8dbda26762b4c0b85085b5f0b73a",
+        "sha256_in_prefix": "b2982f362cf4e004ba2e2a78e69135e31f8d8dbda26762b4c0b85085b5f0b73a",
+        "size_in_bytes": 5427
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_accuracy.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f5ce3c1a79b6077ce85872bb55b104004802ccd823fec5ddc2ee98abd8fe96e3",
+        "sha256_in_prefix": "f5ce3c1a79b6077ce85872bb55b104004802ccd823fec5ddc2ee98abd8fe96e3",
+        "size_in_bytes": 3148
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bias_variance_decomp.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e9d417bce1f67dbdf5af5b84d100711d0387046148991a90be0efc715a2533ab",
+        "sha256_in_prefix": "e9d417bce1f67dbdf5af5b84d100711d0387046148991a90be0efc715a2533ab",
+        "size_in_bytes": 6458
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bootstrap.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "49aac04e29e3b5dae1782052c87fd9ab2f3051c805b14308fcd2380b826bc750",
+        "sha256_in_prefix": "49aac04e29e3b5dae1782052c87fd9ab2f3051c805b14308fcd2380b826bc750",
+        "size_in_bytes": 2143
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bootstrap_outofbag.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8f32e59be58c3e9c9e047b124ea09bfeea9a8702cf8943c954c3b131a01d986",
+        "sha256_in_prefix": "b8f32e59be58c3e9c9e047b124ea09bfeea9a8702cf8943c954c3b131a01d986",
+        "size_in_bytes": 2508
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_bootstrap_point632.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c847121442a9cefee7d29eb50ac175886f1dfb27b984721d181b50370289e6ea",
+        "sha256_in_prefix": "c847121442a9cefee7d29eb50ac175886f1dfb27b984721d181b50370289e6ea",
+        "size_in_bytes": 10563
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_cochran_q.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea8ac989b290c0edb8210502fbd5b06a719c58991a7e5c6ef634625037ab5563",
+        "sha256_in_prefix": "ea8ac989b290c0edb8210502fbd5b06a719c58991a7e5c6ef634625037ab5563",
+        "size_in_bytes": 5727
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_combined_ftest_5x2cv.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "573f4216223af7502ad90c15a45616d875d208c1566427d9d3a99234446eff56",
+        "sha256_in_prefix": "573f4216223af7502ad90c15a45616d875d208c1566427d9d3a99234446eff56",
+        "size_in_bytes": 5801
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_confusion_matrix.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf8827a2aae1fac57cc8c174f6954b8291db7172773bef57c25389ff78803a24",
+        "sha256_in_prefix": "bf8827a2aae1fac57cc8c174f6954b8291db7172773bef57c25389ff78803a24",
+        "size_in_bytes": 1357
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_counterfactual.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0d3d3c632dc798b999b9171b50e019427aea866f5b48041db942529c2908ccb2",
+        "sha256_in_prefix": "0d3d3c632dc798b999b9171b50e019427aea866f5b48041db942529c2908ccb2",
+        "size_in_bytes": 5320
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_f_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a7387bdc7ef3fecfe612934fc8c351df40dc42a1d62520eab857fda865521c6d",
+        "sha256_in_prefix": "a7387bdc7ef3fecfe612934fc8c351df40dc42a1d62520eab857fda865521c6d",
+        "size_in_bytes": 4927
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_feature_importance.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "352c1d74b92a3ffc55ec93e5b72a76e6ea78f880f8007348e395903979ff1535",
+        "sha256_in_prefix": "352c1d74b92a3ffc55ec93e5b72a76e6ea78f880f8007348e395903979ff1535",
+        "size_in_bytes": 10391
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_holdout.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f66db2f089505c918e56c3c73334483dfb16a493c7d27eb0daff0e4a9352cbd",
+        "sha256_in_prefix": "9f66db2f089505c918e56c3c73334483dfb16a493c7d27eb0daff0e4a9352cbd",
+        "size_in_bytes": 7047
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_lift_score.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4498ca533f3a0505199b0dc3ebec1d1f35ae389b9a836b033b00eafbf3032b2",
+        "sha256_in_prefix": "e4498ca533f3a0505199b0dc3ebec1d1f35ae389b9a836b033b00eafbf3032b2",
+        "size_in_bytes": 3640
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_mcnemar_table.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a29b133450fca935912daaeddd510e8594230d3ea27e5f0d410fc72eac216a3",
+        "sha256_in_prefix": "4a29b133450fca935912daaeddd510e8594230d3ea27e5f0d410fc72eac216a3",
+        "size_in_bytes": 4467
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_mcnemar_tables.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3dc8016dc5594fbfa2a4886886af64bdd1632e1c932e2c8d3ebfd34a25fa416d",
+        "sha256_in_prefix": "3dc8016dc5594fbfa2a4886886af64bdd1632e1c932e2c8d3ebfd34a25fa416d",
+        "size_in_bytes": 5974
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_mcnemar_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c407650bb3292b9dc68b015ee92289e1bb5a2714989dcc80cc7ea1f6be0e5576",
+        "sha256_in_prefix": "c407650bb3292b9dc68b015ee92289e1bb5a2714989dcc80cc7ea1f6be0e5576",
+        "size_in_bytes": 2607
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_paired_ttest_5x2cv.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "45d138dd1b948239b61efd376f1cb457635aa7e00e7dc94d7dec730a61c72a41",
+        "sha256_in_prefix": "45d138dd1b948239b61efd376f1cb457635aa7e00e7dc94d7dec730a61c72a41",
+        "size_in_bytes": 5773
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_paired_ttest_kfold.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c1ad52630dfb98f504efaa53fc33688d63a8a35656098771da8fbcf24cdbc5e9",
+        "sha256_in_prefix": "c1ad52630dfb98f504efaa53fc33688d63a8a35656098771da8fbcf24cdbc5e9",
+        "size_in_bytes": 5420
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_paired_ttest_resampled.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bfa9037724fea80ba20ca1687bd053a71714e3a0cae44d70c36cb79f29607640",
+        "sha256_in_prefix": "bfa9037724fea80ba20ca1687bd053a71714e3a0cae44d70c36cb79f29607640",
+        "size_in_bytes": 7189
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_permutation.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b897c51aeba2e4c63b7a22cc815359f9e0297a1a49b95759c7a083c840290193",
+        "sha256_in_prefix": "b897c51aeba2e4c63b7a22cc815359f9e0297a1a49b95759c7a083c840290193",
+        "size_in_bytes": 5943
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_proportion_difference.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "83f953128f9f972b1b4b1119adcf0fc9b195049f2a37985fa6483f0d1fded2b5",
+        "sha256_in_prefix": "83f953128f9f972b1b4b1119adcf0fc9b195049f2a37985fa6483f0d1fded2b5",
+        "size_in_bytes": 3930
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_scoring.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fe0634afbd2ba22f190bfdef1e504ba52d98fa71a705622eeb89e9443f6a5fbd",
+        "sha256_in_prefix": "fe0634afbd2ba22f190bfdef1e504ba52d98fa71a705622eeb89e9443f6a5fbd",
+        "size_in_bytes": 6576
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/__pycache__/test_time_series.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e28fc241f1bcd287106e972cae9fe95e50726cc75cbd87ec4c60293d38cc858b",
+        "sha256_in_prefix": "e28fc241f1bcd287106e972cae9fe95e50726cc75cbd87ec4c60293d38cc858b",
+        "size_in_bytes": 18653
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_accuracy.py",
+        "path_type": "hardlink",
+        "sha256": "ae19c601e52d9047062e225b940a3f637a77d59160febcded0ebd600783935ca",
+        "sha256_in_prefix": "ae19c601e52d9047062e225b940a3f637a77d59160febcded0ebd600783935ca",
+        "size_in_bytes": 1707
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_bias_variance_decomp.py",
+        "path_type": "hardlink",
+        "sha256": "25089d47b400226209899bf45de7e6d265d55ed7c5632061865a416d6e537afa",
+        "sha256_in_prefix": "25089d47b400226209899bf45de7e6d265d55ed7c5632061865a416d6e537afa",
+        "size_in_bytes": 4051
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_bootstrap.py",
+        "path_type": "hardlink",
+        "sha256": "6b88f6b11f9c8384befa099c7b72615984d7ef2b2ec909a39d799c315e6ef29c",
+        "sha256_in_prefix": "6b88f6b11f9c8384befa099c7b72615984d7ef2b2ec909a39d799c315e6ef29c",
+        "size_in_bytes": 941
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_bootstrap_outofbag.py",
+        "path_type": "hardlink",
+        "sha256": "c37b2119fc7cf71023a24b870e2edaffbfd75b6feb6708ba02548ace06797797",
+        "sha256_in_prefix": "c37b2119fc7cf71023a24b870e2edaffbfd75b6feb6708ba02548ace06797797",
+        "size_in_bytes": 1074
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_bootstrap_point632.py",
+        "path_type": "hardlink",
+        "sha256": "2075d78d422e20dd896680b0b0b540ff80c3f6bb51faf083d77b7c476141ab4c",
+        "sha256_in_prefix": "2075d78d422e20dd896680b0b0b540ff80c3f6bb51faf083d77b7c476141ab4c",
+        "size_in_bytes": 5371
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_cochran_q.py",
+        "path_type": "hardlink",
+        "sha256": "c148b01ea64dbd53041447811ea5c047561eeab7fcb3c0838dfe174e607cc426",
+        "sha256_in_prefix": "c148b01ea64dbd53041447811ea5c047561eeab7fcb3c0838dfe174e607cc426",
+        "size_in_bytes": 12582
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_combined_ftest_5x2cv.py",
+        "path_type": "hardlink",
+        "sha256": "3987bb0827e04e29a82a1a1bebd9014157a267a00b63380c8bed8324f8666e09",
+        "sha256_in_prefix": "3987bb0827e04e29a82a1a1bebd9014157a267a00b63380c8bed8324f8666e09",
+        "size_in_bytes": 3244
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_confusion_matrix.py",
+        "path_type": "hardlink",
+        "sha256": "cb95a10ca2b53371febd52b010b9b2d825f28005a9ee5bb23218eca3a05a9b39",
+        "sha256_in_prefix": "cb95a10ca2b53371febd52b010b9b2d825f28005a9ee5bb23218eca3a05a9b39",
+        "size_in_bytes": 776
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_counterfactual.py",
+        "path_type": "hardlink",
+        "sha256": "43d3a348fd78a2f9a7fc8a5180b06f3dff6cd9de44e3f667e16a1607bf1ecb41",
+        "sha256_in_prefix": "43d3a348fd78a2f9a7fc8a5180b06f3dff6cd9de44e3f667e16a1607bf1ecb41",
+        "size_in_bytes": 2852
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_f_test.py",
+        "path_type": "hardlink",
+        "sha256": "6443c3069f4e92d522ac1f170448263e92e03324f8f93690118ad2262e729c0d",
+        "sha256_in_prefix": "6443c3069f4e92d522ac1f170448263e92e03324f8f93690118ad2262e729c0d",
+        "size_in_bytes": 7575
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_feature_importance.py",
+        "path_type": "hardlink",
+        "sha256": "b0a5c51279a08891a84209c7ea1a5fb6aa77819c542ec638e98cae3cef0ecf7d",
+        "sha256_in_prefix": "b0a5c51279a08891a84209c7ea1a5fb6aa77819c542ec638e98cae3cef0ecf7d",
+        "size_in_bytes": 7110
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_holdout.py",
+        "path_type": "hardlink",
+        "sha256": "a95588bde8df4294d45299d25436d4d6e534d4082f4fa3e99fab43c7fd780cda",
+        "sha256_in_prefix": "a95588bde8df4294d45299d25436d4d6e534d4082f4fa3e99fab43c7fd780cda",
+        "size_in_bytes": 8233
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_lift_score.py",
+        "path_type": "hardlink",
+        "sha256": "7a92b5b5e3b524aa4123653a1782e7e2a17068473263b4e43c0b3373d500faf7",
+        "sha256_in_prefix": "7a92b5b5e3b524aa4123653a1782e7e2a17068473263b4e43c0b3373d500faf7",
+        "size_in_bytes": 2150
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_mcnemar_table.py",
+        "path_type": "hardlink",
+        "sha256": "ecdad54707a94b3f4e006c434ea3b05e933fc6aa375308097016b2f060561e28",
+        "sha256_in_prefix": "ecdad54707a94b3f4e006c434ea3b05e933fc6aa375308097016b2f060561e28",
+        "size_in_bytes": 2456
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_mcnemar_tables.py",
+        "path_type": "hardlink",
+        "sha256": "af482e29959f048b3fad83baac6a8f9b60f9b8b67a144da8d6e536e67d07001d",
+        "sha256_in_prefix": "af482e29959f048b3fad83baac6a8f9b60f9b8b67a144da8d6e536e67d07001d",
+        "size_in_bytes": 3458
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_mcnemar_test.py",
+        "path_type": "hardlink",
+        "sha256": "5fcff336b89251ce7241ae110898fbb14b87d1e2e9eabc4fbe0d6bcafb343882",
+        "sha256_in_prefix": "5fcff336b89251ce7241ae110898fbb14b87d1e2e9eabc4fbe0d6bcafb343882",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_paired_ttest_5x2cv.py",
+        "path_type": "hardlink",
+        "sha256": "559a071e06abc56e4d39c65f925c3462372cdc5f22ed78a580422e89fba12eb8",
+        "sha256_in_prefix": "559a071e06abc56e4d39c65f925c3462372cdc5f22ed78a580422e89fba12eb8",
+        "size_in_bytes": 3193
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_paired_ttest_kfold.py",
+        "path_type": "hardlink",
+        "sha256": "0e4a0753a11bba8a4a0723f9c6a0f5d42313ff8588bb98ba1d34d81abacf81ff",
+        "sha256_in_prefix": "0e4a0753a11bba8a4a0723f9c6a0f5d42313ff8588bb98ba1d34d81abacf81ff",
+        "size_in_bytes": 3097
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_paired_ttest_resampled.py",
+        "path_type": "hardlink",
+        "sha256": "69226191c575ddba7bb0b5c87679e0ec2f694f6ae16406238eff5ab7351b85cf",
+        "sha256_in_prefix": "69226191c575ddba7bb0b5c87679e0ec2f694f6ae16406238eff5ab7351b85cf",
+        "size_in_bytes": 4152
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_permutation.py",
+        "path_type": "hardlink",
+        "sha256": "ba1cb3575ea7b5a6e86ad0849e513462b136e3097f9777ff6511333a54e37dd7",
+        "sha256_in_prefix": "ba1cb3575ea7b5a6e86ad0849e513462b136e3097f9777ff6511333a54e37dd7",
+        "size_in_bytes": 2803
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_proportion_difference.py",
+        "path_type": "hardlink",
+        "sha256": "246aa188a3c422353c60f37867604ee3de38a40cdd784b7fa93378662c3f55c8",
+        "sha256_in_prefix": "246aa188a3c422353c60f37867604ee3de38a40cdd784b7fa93378662c3f55c8",
+        "size_in_bytes": 6989
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_scoring.py",
+        "path_type": "hardlink",
+        "sha256": "b36d2ff50a0bb6dff00870301893dbbd977230f389f2439f7274cc708257268a",
+        "sha256_in_prefix": "b36d2ff50a0bb6dff00870301893dbbd977230f389f2439f7274cc708257268a",
+        "size_in_bytes": 3983
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/tests/test_time_series.py",
+        "path_type": "hardlink",
+        "sha256": "0279b03e41fc6f517148553e95bfd3eb3d4508028df24033972a20a592eac814",
+        "sha256_in_prefix": "0279b03e41fc6f517148553e95bfd3eb3d4508028df24033972a20a592eac814",
+        "size_in_bytes": 12133
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/time_series.py",
+        "path_type": "hardlink",
+        "sha256": "7b314ba922df189a5cbc13e741ea813a48fe4442812f104a853ace574eab2770",
+        "sha256_in_prefix": "7b314ba922df189a5cbc13e741ea813a48fe4442812f104a853ace574eab2770",
+        "size_in_bytes": 11268
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/evaluate/ttest.py",
+        "path_type": "hardlink",
+        "sha256": "31f8eb63a9d77bcb2a6610d4c2882e51157103d99f8503b46aa03938edb7639b",
+        "sha256_in_prefix": "31f8eb63a9d77bcb2a6610d4c2882e51157103d99f8503b46aa03938edb7639b",
+        "size_in_bytes": 10927
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a16226eb058888d80e8e0e278a01f0a6157160cb2201be340d99c14f0fcb6743",
+        "sha256_in_prefix": "a16226eb058888d80e8e0e278a01f0a6157160cb2201be340d99c14f0fcb6743",
+        "size_in_bytes": 153
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "808632feb7cd1ff374aa9f13ecaf42b8fa7b8102f0b51dc148fbcab56464fb32",
+        "sha256_in_prefix": "808632feb7cd1ff374aa9f13ecaf42b8fa7b8102f0b51dc148fbcab56464fb32",
+        "size_in_bytes": 156
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/__pycache__/adjust_text.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bba1c976836efb06aa1886a3501b3bb607e02a2062344360b607dd3caf8b6029",
+        "sha256_in_prefix": "bba1c976836efb06aa1886a3501b3bb607e02a2062344360b607dd3caf8b6029",
+        "size_in_bytes": 36119
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/__pycache__/estimator_checks.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e15be1a37e83783295ae843e822fc1a88756e4cff602f6c203c1cbc5a4267b5a",
+        "sha256_in_prefix": "e15be1a37e83783295ae843e822fc1a88756e4cff602f6c203c1cbc5a4267b5a",
+        "size_in_bytes": 3312
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/__pycache__/name_estimators.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "772cd59db020544956a27a76cdd8a3c023dca06306d48e18dd3ff106b1b92fd1",
+        "sha256_in_prefix": "772cd59db020544956a27a76cdd8a3c023dca06306d48e18dd3ff106b1b92fd1",
+        "size_in_bytes": 1534
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/__pycache__/signature_py27.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "678514731d4be8b4347f7581607bb7131a8d68185d892d1ee875fbf9a9746f91",
+        "sha256_in_prefix": "678514731d4be8b4347f7581607bb7131a8d68185d892d1ee875fbf9a9746f91",
+        "size_in_bytes": 31710
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/adjust_text.py",
+        "path_type": "hardlink",
+        "sha256": "11a1653fa10158e3efb75f384188a9b212f1c92d3f9f05f0f4f16f9c310e36d3",
+        "sha256_in_prefix": "11a1653fa10158e3efb75f384188a9b212f1c92d3f9f05f0f4f16f9c310e36d3",
+        "size_in_bytes": 27028
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/estimator_checks.py",
+        "path_type": "hardlink",
+        "sha256": "5575e6105326232dadf19ed24b6f07969c7003b7a3c682f888ac28df1e90f3bd",
+        "sha256_in_prefix": "5575e6105326232dadf19ed24b6f07969c7003b7a3c682f888ac28df1e90f3bd",
+        "size_in_bytes": 2705
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/name_estimators.py",
+        "path_type": "hardlink",
+        "sha256": "4b2e3fa169b1c125d13d441c27a0d092a29caf25ac5547041067e892c2c4bf1e",
+        "sha256_in_prefix": "4b2e3fa169b1c125d13d441c27a0d092a29caf25ac5547041067e892c2c4bf1e",
+        "size_in_bytes": 889
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0dc0ef41f221b64746e3e7fc3c09be5436c0d735813dd0f3e7f73295741ad925",
+        "sha256_in_prefix": "0dc0ef41f221b64746e3e7fc3c09be5436c0d735813dd0f3e7f73295741ad925",
+        "size_in_bytes": 449
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "737e182cfed72feefefc9d5b761e415b4b60afc6ad36b31b78037979054624d2",
+        "sha256_in_prefix": "737e182cfed72feefefc9d5b761e415b4b60afc6ad36b31b78037979054624d2",
+        "size_in_bytes": 729
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/generator_factory.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea60c746955a67d8946cf63907393426e08fcb966913dfd5ef7abd89e6868191",
+        "sha256_in_prefix": "ea60c746955a67d8946cf63907393426e08fcb966913dfd5ef7abd89e6868191",
+        "size_in_bytes": 1033
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/prog_class.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f365b0466408361bc172bb01514471f5ad798bc71e4a1ae6cdd1fe6aff41361",
+        "sha256_in_prefix": "9f365b0466408361bc172bb01514471f5ad798bc71e4a1ae6cdd1fe6aff41361",
+        "size_in_bytes": 10625
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/progbar.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e4f5948aa44c647435a7e2785df7a6754e307963f117cd024f912ad243a8f1c",
+        "sha256_in_prefix": "3e4f5948aa44c647435a7e2785df7a6754e307963f117cd024f912ad243a8f1c",
+        "size_in_bytes": 4926
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/__pycache__/progpercent.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "22be1fee04c7fc69a0018724ce2f2a64804e41fbaa43daa9a2cd90228a52b488",
+        "sha256_in_prefix": "22be1fee04c7fc69a0018724ce2f2a64804e41fbaa43daa9a2cd90228a52b488",
+        "size_in_bytes": 4341
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/generator_factory.py",
+        "path_type": "hardlink",
+        "sha256": "4941e0f27e7a9f5236f9048f78ffc70f0deba43822f37e6227a802f7ccb5d468",
+        "sha256_in_prefix": "4941e0f27e7a9f5236f9048f78ffc70f0deba43822f37e6227a802f7ccb5d468",
+        "size_in_bytes": 775
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/prog_class.py",
+        "path_type": "hardlink",
+        "sha256": "895e63f1539618f3e9d3af1e325b3bbc1316f3cac93f2310e814cd45fb41004e",
+        "sha256_in_prefix": "895e63f1539618f3e9d3af1e325b3bbc1316f3cac93f2310e814cd45fb41004e",
+        "size_in_bytes": 6998
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/progbar.py",
+        "path_type": "hardlink",
+        "sha256": "10d91bde6cd5f0a801011b48bf76119f12c956377238c4da1c911a6b52d00663",
+        "sha256_in_prefix": "10d91bde6cd5f0a801011b48bf76119f12c956377238c4da1c911a6b52d00663",
+        "size_in_bytes": 3553
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/pyprind/progpercent.py",
+        "path_type": "hardlink",
+        "sha256": "b60e1ed582da7945832a972997a5dafc0839d951576d4431a8440f5184097304",
+        "sha256_in_prefix": "b60e1ed582da7945832a972997a5dafc0839d951576d4431a8440f5184097304",
+        "size_in_bytes": 2973
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/externals/signature_py27.py",
+        "path_type": "hardlink",
+        "sha256": "66dcfbf02a967df6022567ac4c95596c9ad366becf442b8817fcd6877f4447bc",
+        "sha256_in_prefix": "66dcfbf02a967df6022567ac4c95596c9ad366becf442b8817fcd6877f4447bc",
+        "size_in_bytes": 29726
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "adcd16555ca3d671ba6c1a7e5fb81ea610b36c5549cf3c90b91c84fb8ce15ebc",
+        "sha256_in_prefix": "adcd16555ca3d671ba6c1a7e5fb81ea610b36c5549cf3c90b91c84fb8ce15ebc",
+        "size_in_bytes": 421
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8170343f3ae69e87fde43c899c505538c66baf00cdcd05a03cd4a56ee63d9c9b",
+        "sha256_in_prefix": "8170343f3ae69e87fde43c899c505538c66baf00cdcd05a03cd4a56ee63d9c9b",
+        "size_in_bytes": 466
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/__pycache__/base.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa0b44f1f5f4afc0de01486093423e961ee2b196cfd966e0039e6bb64c412714",
+        "sha256_in_prefix": "fa0b44f1f5f4afc0de01486093423e961ee2b196cfd966e0039e6bb64c412714",
+        "size_in_bytes": 1788
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/__pycache__/linear_discriminant_analysis.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a07e8f7d5d0eb56d3efe40f5da7a9b79c12949f80bc77e44e4e47892711a9756",
+        "sha256_in_prefix": "a07e8f7d5d0eb56d3efe40f5da7a9b79c12949f80bc77e44e4e47892711a9756",
+        "size_in_bytes": 8344
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/__pycache__/principal_component_analysis.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "05013e9e257dac750c11372474f1261438808991694ac6e4c489e81ec6954eb5",
+        "sha256_in_prefix": "05013e9e257dac750c11372474f1261438808991694ac6e4c489e81ec6954eb5",
+        "size_in_bytes": 8806
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/__pycache__/rbf_kernel_pca.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d3e392f0951f7f80950d105889aca62e765fa2a4c00369bf297b6f4b0e068a99",
+        "sha256_in_prefix": "d3e392f0951f7f80950d105889aca62e765fa2a4c00369bf297b6f4b0e068a99",
+        "size_in_bytes": 7027
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/base.py",
+        "path_type": "hardlink",
+        "sha256": "01ee6e5abc83d40f7fa2d16da3c479e58f6ca4f14ca4b01644d5e40400c708aa",
+        "sha256_in_prefix": "01ee6e5abc83d40f7fa2d16da3c479e58f6ca4f14ca4b01644d5e40400c708aa",
+        "size_in_bytes": 988
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/linear_discriminant_analysis.py",
+        "path_type": "hardlink",
+        "sha256": "fda74c598c65faf0efeb7132f8ca680c2f8a7828038796e4615a7d7fc86ecf6f",
+        "sha256_in_prefix": "fda74c598c65faf0efeb7132f8ca680c2f8a7828038796e4615a7d7fc86ecf6f",
+        "size_in_bytes": 5347
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/principal_component_analysis.py",
+        "path_type": "hardlink",
+        "sha256": "6c62124e19471b917f973a876155174ae2b0c1943ea04a69e4103a76af94b329",
+        "sha256_in_prefix": "6c62124e19471b917f973a876155174ae2b0c1943ea04a69e4103a76af94b329",
+        "size_in_bytes": 6370
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/rbf_kernel_pca.py",
+        "path_type": "hardlink",
+        "sha256": "a2e8db9a086dc0516287faaa979bdda08b16428658c9364519142476eee4c543",
+        "sha256_in_prefix": "a2e8db9a086dc0516287faaa979bdda08b16428658c9364519142476eee4c543",
+        "size_in_bytes": 4866
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_base.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "24cf7fb224f61169f7dd18ccb731afbc49171ec4c0a2626b6381280b31c8f3bc",
+        "sha256_in_prefix": "24cf7fb224f61169f7dd18ccb731afbc49171ec4c0a2626b6381280b31c8f3bc",
+        "size_in_bytes": 2755
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_kernel_pca.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c539b4392909be6bbf344cf38ec4cfc266a44fdd5b888e9838715edb638628b",
+        "sha256_in_prefix": "1c539b4392909be6bbf344cf38ec4cfc266a44fdd5b888e9838715edb638628b",
+        "size_in_bytes": 4319
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_linear_discriminant_analysis.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4527fe25f77e21e701a758abfdfc6c9f8d829366cde927e5356248e5d7717c14",
+        "sha256_in_prefix": "4527fe25f77e21e701a758abfdfc6c9f8d829366cde927e5356248e5d7717c14",
+        "size_in_bytes": 3923
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/__pycache__/test_principal_component_analysis.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f74226222a548bd17d6ccfef7fee299a2a7bb6620aa9462f6a92bdf5931ebb91",
+        "sha256_in_prefix": "f74226222a548bd17d6ccfef7fee299a2a7bb6620aa9462f6a92bdf5931ebb91",
+        "size_in_bytes": 7098
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/test_base.py",
+        "path_type": "hardlink",
+        "sha256": "d2d13e6f8073166560878ed6475e8240553a9779fe9a8d80eaa43635fade4a40",
+        "sha256_in_prefix": "d2d13e6f8073166560878ed6475e8240553a9779fe9a8d80eaa43635fade4a40",
+        "size_in_bytes": 797
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/test_kernel_pca.py",
+        "path_type": "hardlink",
+        "sha256": "7fb2a7d728b82a8ac886fd26c73bf9146257e1f03d35bda8501ae01f78774e94",
+        "sha256_in_prefix": "7fb2a7d728b82a8ac886fd26c73bf9146257e1f03d35bda8501ae01f78774e94",
+        "size_in_bytes": 1537
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/test_linear_discriminant_analysis.py",
+        "path_type": "hardlink",
+        "sha256": "666ec427b0ff5b02b8efe5e69aee267c6ca3fad8e8f7230b82af25e487f86636",
+        "sha256_in_prefix": "666ec427b0ff5b02b8efe5e69aee267c6ca3fad8e8f7230b82af25e487f86636",
+        "size_in_bytes": 1284
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_extraction/tests/test_principal_component_analysis.py",
+        "path_type": "hardlink",
+        "sha256": "11e34f455043b8cde1ba2daea70de162053a316eca728585846b1210d03e805c",
+        "sha256_in_prefix": "11e34f455043b8cde1ba2daea70de162053a316eca728585846b1210d03e805c",
+        "size_in_bytes": 3281
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5a5573b133ee5685521a17ced236923d8261489f72b0f7d2b73a5ff6a660e775",
+        "sha256_in_prefix": "5a5573b133ee5685521a17ced236923d8261489f72b0f7d2b73a5ff6a660e775",
+        "size_in_bytes": 420
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "96365044a86f85363358ef266356ac609a77ed544072f318f0b7185af1db509b",
+        "sha256_in_prefix": "96365044a86f85363358ef266356ac609a77ed544072f318f0b7185af1db509b",
+        "size_in_bytes": 463
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/__pycache__/column_selector.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "29e0a6ea5054100452bc80e6a62f08241d215135c96638445f373ad8f081b053",
+        "sha256_in_prefix": "29e0a6ea5054100452bc80e6a62f08241d215135c96638445f373ad8f081b053",
+        "size_in_bytes": 4780
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/__pycache__/exhaustive_feature_selector.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "dd7b0c8ea801a57643c75ba12d0da1900b7a77f5034e7c6272e9dfc9b764c8a6",
+        "sha256_in_prefix": "dd7b0c8ea801a57643c75ba12d0da1900b7a77f5034e7c6272e9dfc9b764c8a6",
+        "size_in_bytes": 28104
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/__pycache__/sequential_feature_selector.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "246c54f29e8dcf6fabe105e5a009b79aa1b870e632cc2f9b328403efc598e5e7",
+        "sha256_in_prefix": "246c54f29e8dcf6fabe105e5a009b79aa1b870e632cc2f9b328403efc598e5e7",
+        "size_in_bytes": 38460
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/__pycache__/utilities.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b04646825e21128edff962f8e165c806cf70df687e0f96120aa89186a81587f4",
+        "sha256_in_prefix": "b04646825e21128edff962f8e165c806cf70df687e0f96120aa89186a81587f4",
+        "size_in_bytes": 7114
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/column_selector.py",
+        "path_type": "hardlink",
+        "sha256": "f236cb43bbe65f9dcfe7f24a71e6444219c243a90b0406cddcf7246b662a8d80",
+        "sha256_in_prefix": "f236cb43bbe65f9dcfe7f24a71e6444219c243a90b0406cddcf7246b662a8d80",
+        "size_in_bytes": 3959
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/exhaustive_feature_selector.py",
+        "path_type": "hardlink",
+        "sha256": "19c771f4e42e11f0868afe83ef40c2d398b63a987f35bc2a173f5dc2d86bfd24",
+        "sha256_in_prefix": "19c771f4e42e11f0868afe83ef40c2d398b63a987f35bc2a173f5dc2d86bfd24",
+        "size_in_bytes": 22897
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/sequential_feature_selector.py",
+        "path_type": "hardlink",
+        "sha256": "69a2b1dedec3b1c070ebd63823df12efdb1824e57a7502f7dcfb44a7f39f5787",
+        "sha256_in_prefix": "69a2b1dedec3b1c070ebd63823df12efdb1824e57a7502f7dcfb44a7f39f5787",
+        "size_in_bytes": 35509
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_column_selector.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a766849e1d9f5d955be736387ce3863f76485486fda2fae3ca6ccde0752e6703",
+        "sha256_in_prefix": "a766849e1d9f5d955be736387ce3863f76485486fda2fae3ca6ccde0752e6703",
+        "size_in_bytes": 6616
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_exhaustive_feature_selector.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "84e88e13307763f027d562f29bb23532a497bb0dc6d259621aeae38dbabde0f2",
+        "sha256_in_prefix": "84e88e13307763f027d562f29bb23532a497bb0dc6d259621aeae38dbabde0f2",
+        "size_in_bytes": 28235
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_sequential_feature_selector.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "60e0f34e67892123ace26bc2cb98e6e1820dc6580158d61dbfdc0c7a14e79c69",
+        "sha256_in_prefix": "60e0f34e67892123ace26bc2cb98e6e1820dc6580158d61dbfdc0c7a14e79c69",
+        "size_in_bytes": 44166
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_sequential_feature_selector_feature_groups.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e42c3e44d2ff1b3f2fb707fcbc6b3d5f74dc6b63cba453b56f98dd6322d18f54",
+        "sha256_in_prefix": "e42c3e44d2ff1b3f2fb707fcbc6b3d5f74dc6b63cba453b56f98dd6322d18f54",
+        "size_in_bytes": 9514
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/__pycache__/test_sequential_feature_selector_fixed_features.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "511484b9c38544f5d29aeb4b1098cedc8c1b3f9150feea7bcbd5c18e6e74d26f",
+        "sha256_in_prefix": "511484b9c38544f5d29aeb4b1098cedc8c1b3f9150feea7bcbd5c18e6e74d26f",
+        "size_in_bytes": 7124
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/test_column_selector.py",
+        "path_type": "hardlink",
+        "sha256": "3cb6cf7063085028f5320ffa5b1723a67da02033988750ae8eea076d8dcef0bf",
+        "sha256_in_prefix": "3cb6cf7063085028f5320ffa5b1723a67da02033988750ae8eea076d8dcef0bf",
+        "size_in_bytes": 4079
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/test_exhaustive_feature_selector.py",
+        "path_type": "hardlink",
+        "sha256": "dac719d1a2ffed4563fd99590892a27eaf7ae9a9b18b2f8eaac8ada08d9fcbf1",
+        "sha256_in_prefix": "dac719d1a2ffed4563fd99590892a27eaf7ae9a9b18b2f8eaac8ada08d9fcbf1",
+        "size_in_bytes": 24880
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/test_sequential_feature_selector.py",
+        "path_type": "hardlink",
+        "sha256": "e8094cb5ab443e2969f3107acef0f12d89c20f4929b71c26a4ad4f2627b50d16",
+        "sha256_in_prefix": "e8094cb5ab443e2969f3107acef0f12d89c20f4929b71c26a4ad4f2627b50d16",
+        "size_in_bytes": 29682
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/test_sequential_feature_selector_feature_groups.py",
+        "path_type": "hardlink",
+        "sha256": "95e8caa35ba5590961137ecd05982ff3a87f4fb92ff3534b2a3bd339b710f24a",
+        "sha256_in_prefix": "95e8caa35ba5590961137ecd05982ff3a87f4fb92ff3534b2a3bd339b710f24a",
+        "size_in_bytes": 7233
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/tests/test_sequential_feature_selector_fixed_features.py",
+        "path_type": "hardlink",
+        "sha256": "e5976ed8c1b16662a69b54f063c4f9e130a98fa80acbc5a5e72c656a7d76e136",
+        "sha256_in_prefix": "e5976ed8c1b16662a69b54f063c4f9e130a98fa80acbc5a5e72c656a7d76e136",
+        "size_in_bytes": 4684
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/feature_selection/utilities.py",
+        "path_type": "hardlink",
+        "sha256": "c687a2704d1887f5b4ddc0c09bcdc7da035ca6ff16382df7032798a34f1a0852",
+        "sha256_in_prefix": "c687a2704d1887f5b4ddc0c09bcdc7da035ca6ff16382df7032798a34f1a0852",
+        "size_in_bytes": 5198
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/file_io/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3738b9ee905efafa604d3413d1b933bc8eef232c9fb88976f55857a48605b027",
+        "sha256_in_prefix": "3738b9ee905efafa604d3413d1b933bc8eef232c9fb88976f55857a48605b027",
+        "size_in_bytes": 280
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/file_io/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d3fac5a9549f2c040dd290c7293b844deafb02ba9fdca52c3614480ccd18a6a5",
+        "sha256_in_prefix": "d3fac5a9549f2c040dd290c7293b844deafb02ba9fdca52c3614480ccd18a6a5",
+        "size_in_bytes": 293
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/file_io/__pycache__/find_filegroups.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "64ec7b365ffc4e820d7cf3a6ef2c0908e62603dec261fc7922f474775602d5de",
+        "sha256_in_prefix": "64ec7b365ffc4e820d7cf3a6ef2c0908e62603dec261fc7922f474775602d5de",
+        "size_in_bytes": 4908
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/file_io/__pycache__/find_files.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "14bf881e2fe777eb6f43930bc32fa7e4beff1884c49abd367d0399bad2a271df",
+        "sha256_in_prefix": "14bf881e2fe777eb6f43930bc32fa7e4beff1884c49abd367d0399bad2a271df",
+        "size_in_bytes": 2684
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/file_io/find_filegroups.py",
+        "path_type": "hardlink",
+        "sha256": "28f561ba83f2849b4b809fe739158f26df2be3bea4953aa68608dd64016bd5b6",
+        "sha256_in_prefix": "28f561ba83f2849b4b809fe739158f26df2be3bea4953aa68608dd64016bd5b6",
+        "size_in_bytes": 3772
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/file_io/find_files.py",
+        "path_type": "hardlink",
+        "sha256": "10bb8afb3be0134b5a4372eff92b582ef132480132f83b94eb45ddf37e87ac2d",
+        "sha256_in_prefix": "10bb8afb3be0134b5a4372eff92b582ef132480132f83b94eb45ddf37e87ac2d",
+        "size_in_bytes": 2030
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c2ac2f17ee6eb362329e4455452782c3207e5e890cf737de0467cb120be0271e",
+        "sha256_in_prefix": "c2ac2f17ee6eb362329e4455452782c3207e5e890cf737de0467cb120be0271e",
+        "size_in_bytes": 387
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "033d6dee9e7e3fd98b2d76b242069286296e3df395a3bdea7a43b7e19015256b",
+        "sha256_in_prefix": "033d6dee9e7e3fd98b2d76b242069286296e3df395a3bdea7a43b7e19015256b",
+        "size_in_bytes": 454
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/apriori.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2d4baab10a7d169f10185da3daa2f9c4048ee67524b6929730ae2619b40506e0",
+        "sha256_in_prefix": "2d4baab10a7d169f10185da3daa2f9c4048ee67524b6929730ae2619b40506e0",
+        "size_in_bytes": 14064
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/association_rules.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "896572f1e722bc468ebda87541911611380a469713a5e945c3f82d27e95212bc",
+        "sha256_in_prefix": "896572f1e722bc468ebda87541911611380a469713a5e945c3f82d27e95212bc",
+        "size_in_bytes": 9842
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/fpcommon.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c8bded293933fbc0244afd9c7e07c15350846a97fd924135db04790101286cc",
+        "sha256_in_prefix": "6c8bded293933fbc0244afd9c7e07c15350846a97fd924135db04790101286cc",
+        "size_in_bytes": 12906
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/fpgrowth.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "dee0f61df933d843c55bad920a54b141793560731767d982077198efb04d49da",
+        "sha256_in_prefix": "dee0f61df933d843c55bad920a54b141793560731767d982077198efb04d49da",
+        "size_in_bytes": 6149
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/fpmax.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "685947510909a2657f689a3c9240764236d93b52caa0f70e1268b53d9c0ff24b",
+        "sha256_in_prefix": "685947510909a2657f689a3c9240764236d93b52caa0f70e1268b53d9c0ff24b",
+        "size_in_bytes": 9315
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/__pycache__/hmine.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8793db022748c807cc07d137843a753b65af415fae5ed1807257b5afa1a16f17",
+        "sha256_in_prefix": "8793db022748c807cc07d137843a753b65af415fae5ed1807257b5afa1a16f17",
+        "size_in_bytes": 9984
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/apriori.py",
+        "path_type": "hardlink",
+        "sha256": "3c4a19b471292fe78a0ea0ebadd09256b8b55094f5f82d40896bc3652c0ebb36",
+        "sha256_in_prefix": "3c4a19b471292fe78a0ea0ebadd09256b8b55094f5f82d40896bc3652c0ebb36",
+        "size_in_bytes": 11863
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/association_rules.py",
+        "path_type": "hardlink",
+        "sha256": "56705cc913df5e27074c6c349ff3755896813de45c7b8b8684aad5d219ac12f6",
+        "sha256_in_prefix": "56705cc913df5e27074c6c349ff3755896813de45c7b8b8684aad5d219ac12f6",
+        "size_in_bytes": 8101
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/fpcommon.py",
+        "path_type": "hardlink",
+        "sha256": "027438cc2599142b0136c6d3a481ab77a5b88400044cfb513cb613ddb45c746d",
+        "sha256_in_prefix": "027438cc2599142b0136c6d3a481ab77a5b88400044cfb513cb613ddb45c746d",
+        "size_in_bytes": 8600
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/fpgrowth.py",
+        "path_type": "hardlink",
+        "sha256": "0b34fbef6779fa5dcccd421320a50b79951ad948dc9e74c7b66e4415cce78ae6",
+        "sha256_in_prefix": "0b34fbef6779fa5dcccd421320a50b79951ad948dc9e74c7b66e4415cce78ae6",
+        "size_in_bytes": 4698
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/fpmax.py",
+        "path_type": "hardlink",
+        "sha256": "070d14abcf276246526735f19616de517cd55f824c25c0219efe2ee6a7f014c0",
+        "sha256_in_prefix": "070d14abcf276246526735f19616de517cd55f824c25c0219efe2ee6a7f014c0",
+        "size_in_bytes": 6841
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/hmine.py",
+        "path_type": "hardlink",
+        "sha256": "6de8e506622a3035a3e8ca0ecdfe6d0d8442d8619354975ab7156d5a10928d48",
+        "sha256_in_prefix": "6de8e506622a3035a3e8ca0ecdfe6d0d8442d8619354975ab7156d5a10928d48",
+        "size_in_bytes": 8318
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_apriori.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4689bf2a9c6c78d0e503e297d6ec444e94b627bf1ce4bd96b23c4077a9541bae",
+        "sha256_in_prefix": "4689bf2a9c6c78d0e503e297d6ec444e94b627bf1ce4bd96b23c4077a9541bae",
+        "size_in_bytes": 3861
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_association_rules.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "59429e1754434dbe2f3683204546100918ef0a102170df6bf4d3d8c1ab997544",
+        "sha256_in_prefix": "59429e1754434dbe2f3683204546100918ef0a102170df6bf4d3d8c1ab997544",
+        "size_in_bytes": 11715
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_fpbase.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e19462eb62a3c37ed3354aa563635f9f7251b7af69ed66cca6e2b76ea4b1d365",
+        "sha256_in_prefix": "e19462eb62a3c37ed3354aa563635f9f7251b7af69ed66cca6e2b76ea4b1d365",
+        "size_in_bytes": 19133
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_fpgrowth.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4b5a02d5a8f1506024a3ec9319576284d8b1e63be9257f00db3c60c185d0f777",
+        "sha256_in_prefix": "4b5a02d5a8f1506024a3ec9319576284d8b1e63be9257f00db3c60c185d0f777",
+        "size_in_bytes": 3187
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_fpmax.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a55dbb89a5570aa8ed701e0a73ad52cc55d35fb18b23a30eb4d2210a98597809",
+        "sha256_in_prefix": "a55dbb89a5570aa8ed701e0a73ad52cc55d35fb18b23a30eb4d2210a98597809",
+        "size_in_bytes": 6435
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/__pycache__/test_hmine.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "19014d1acdfcfb711e1822e6d6ba04a82939dd603f819358a1d487105723b9e5",
+        "sha256_in_prefix": "19014d1acdfcfb711e1822e6d6ba04a82939dd603f819358a1d487105723b9e5",
+        "size_in_bytes": 5951
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/test_apriori.py",
+        "path_type": "hardlink",
+        "sha256": "1fd54689fbeaad56b82437edf7d2be4ff084258b1676d488f99229534ed17588",
+        "sha256_in_prefix": "1fd54689fbeaad56b82437edf7d2be4ff084258b1676d488f99229534ed17588",
+        "size_in_bytes": 2566
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/test_association_rules.py",
+        "path_type": "hardlink",
+        "sha256": "78d835309a95b093bb696a9cbee8f7470383737202d376dafdc4a9c7a9c803e3",
+        "sha256_in_prefix": "78d835309a95b093bb696a9cbee8f7470383737202d376dafdc4a9c7a9c803e3",
+        "size_in_bytes": 7908
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/test_fpbase.py",
+        "path_type": "hardlink",
+        "sha256": "19a4013bc6cc896d53f4bdd504ecd68ec0e38190adf6c5bbdbb088cd313a170b",
+        "sha256_in_prefix": "19a4013bc6cc896d53f4bdd504ecd68ec0e38190adf6c5bbdbb088cd313a170b",
+        "size_in_bytes": 10720
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/test_fpgrowth.py",
+        "path_type": "hardlink",
+        "sha256": "c58e56cbd147f2a252159d04955361d8d1439590fda6fc7db3004a28ee13df20",
+        "sha256_in_prefix": "c58e56cbd147f2a252159d04955361d8d1439590fda6fc7db3004a28ee13df20",
+        "size_in_bytes": 2162
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/test_fpmax.py",
+        "path_type": "hardlink",
+        "sha256": "f858a81760756431383a7cf24f2bde90a8136b3012816a6e2bfec548ff396d73",
+        "sha256_in_prefix": "f858a81760756431383a7cf24f2bde90a8136b3012816a6e2bfec548ff396d73",
+        "size_in_bytes": 3803
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/frequent_patterns/tests/test_hmine.py",
+        "path_type": "hardlink",
+        "sha256": "eb7b47cbe81911974d923848467567b52154bfb907b191cc7bf6809fbdc58a4b",
+        "sha256_in_prefix": "eb7b47cbe81911974d923848467567b52154bfb907b191cc7bf6809fbdc58a4b",
+        "size_in_bytes": 5028
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8eba306a7621f071f9e0a5558315fcbc0b7f2c8dc4bd862661cb104e503b59eb",
+        "sha256_in_prefix": "8eba306a7621f071f9e0a5558315fcbc0b7f2c8dc4bd862661cb104e503b59eb",
+        "size_in_bytes": 453
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "646e1989ea200320f3c37b2047bca819558972a3b4aeb955430e3a232ba316bd",
+        "sha256_in_prefix": "646e1989ea200320f3c37b2047bca819558972a3b4aeb955430e3a232ba316bd",
+        "size_in_bytes": 455
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/__pycache__/counting.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "130c9201b4cdd3b52580a6c7decd81ec58efa115229e348889d3f156321478b6",
+        "sha256_in_prefix": "130c9201b4cdd3b52580a6c7decd81ec58efa115229e348889d3f156321478b6",
+        "size_in_bytes": 2242
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/__pycache__/linalg.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "71fa0d26dfa68ccdd1d7580b5b00cb6b54c5215e4fa70507cbcd834b9b896c1c",
+        "sha256_in_prefix": "71fa0d26dfa68ccdd1d7580b5b00cb6b54c5215e4fa70507cbcd834b9b896c1c",
+        "size_in_bytes": 3008
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/counting.py",
+        "path_type": "hardlink",
+        "sha256": "27ecc253225fa1a987cc8f471c0f1b98a10d8fc96aac0a81c228dc633b33aaf9",
+        "sha256_in_prefix": "27ecc253225fa1a987cc8f471c0f1b98a10d8fc96aac0a81c228dc633b33aaf9",
+        "size_in_bytes": 1903
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/linalg.py",
+        "path_type": "hardlink",
+        "sha256": "2661ba42efba0a26fabb6a6b6629cc654d6fba829ceaed988d786f291e04ec2f",
+        "sha256_in_prefix": "2661ba42efba0a26fabb6a6b6629cc654d6fba829ceaed988d786f291e04ec2f",
+        "size_in_bytes": 2964
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/tests/__pycache__/test_counting.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1baf9933a87d877a41e010f57eb0fed26e7c925ceaec33951852eb0c39a6e4b3",
+        "sha256_in_prefix": "1baf9933a87d877a41e010f57eb0fed26e7c925ceaec33951852eb0c39a6e4b3",
+        "size_in_bytes": 1460
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/tests/__pycache__/test_linalg.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "241da6430c6dd9002e88b9c52f9b68a0bfec0444db288e7ce49149e4d224f06d",
+        "sha256_in_prefix": "241da6430c6dd9002e88b9c52f9b68a0bfec0444db288e7ce49149e4d224f06d",
+        "size_in_bytes": 2235
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/tests/test_counting.py",
+        "path_type": "hardlink",
+        "sha256": "76850be7974f38380bede75aa6980b8b59a02d7dab4d261e3e9f64f11e4f236e",
+        "sha256_in_prefix": "76850be7974f38380bede75aa6980b8b59a02d7dab4d261e3e9f64f11e4f236e",
+        "size_in_bytes": 799
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/math/tests/test_linalg.py",
+        "path_type": "hardlink",
+        "sha256": "66af7e3b8a27f88eb59c3fd47f73b01d110bac314d26adc3e82af1438664a7b0",
+        "sha256_in_prefix": "66af7e3b8a27f88eb59c3fd47f73b01d110bac314d26adc3e82af1438664a7b0",
+        "size_in_bytes": 1304
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "baacb6f91a4907cbd24f664b803047d4b9cc5a33c7f1dafda54e8bc1bbd76ac6",
+        "sha256_in_prefix": "baacb6f91a4907cbd24f664b803047d4b9cc5a33c7f1dafda54e8bc1bbd76ac6",
+        "size_in_bytes": 1267
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "79a10a89e786e207e7411bb582644ec6787f98344d2eddfe6947b146fa0512f5",
+        "sha256_in_prefix": "79a10a89e786e207e7411bb582644ec6787f98344d2eddfe6947b146fa0512f5",
+        "size_in_bytes": 1208
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/checkerboard.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "71ef95a201ceaabcede56c2667262cb9cf78ab0349dfacd436a78c92e3dc12e7",
+        "sha256_in_prefix": "71ef95a201ceaabcede56c2667262cb9cf78ab0349dfacd436a78c92e3dc12e7",
+        "size_in_bytes": 3706
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/decision_regions.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a68f7d401951ebf7942272456e49b9d719cea555491d4a06deeadaae9f417a5e",
+        "sha256_in_prefix": "a68f7d401951ebf7942272456e49b9d719cea555491d4a06deeadaae9f417a5e",
+        "size_in_bytes": 16397
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/ecdf.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bc8f8862dc13fd6ded2c324de78f10d232979a6cf77858d2133a56cb302145ff",
+        "sha256_in_prefix": "bc8f8862dc13fd6ded2c324de78f10d232979a6cf77858d2133a56cb302145ff",
+        "size_in_bytes": 3081
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/enrichment_plot.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "50a0f5ca9677247c7e29438a75d996ff871a8168c76be321f2b2e22d47c67c25",
+        "sha256_in_prefix": "50a0f5ca9677247c7e29438a75d996ff871a8168c76be321f2b2e22d47c67c25",
+        "size_in_bytes": 4739
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/heatmap.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "da483a8a59e9431dbdafb7cb3f0093dcba1f9408c057251640a960c511131a9b",
+        "sha256_in_prefix": "da483a8a59e9431dbdafb7cb3f0093dcba1f9408c057251640a960c511131a9b",
+        "size_in_bytes": 5770
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/learning_curves.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f41a913f7f8ed20792e9e9ec93e6d88ba514cff893f0da2ec9f690f1e9894bd1",
+        "sha256_in_prefix": "f41a913f7f8ed20792e9e9ec93e6d88ba514cff893f0da2ec9f690f1e9894bd1",
+        "size_in_bytes": 7151
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/pca_correlation_graph.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "33dae7d1d1c604de4ad999a3b75a4530c2671bc60350366eb9776ff6012e3bf2",
+        "sha256_in_prefix": "33dae7d1d1c604de4ad999a3b75a4530c2671bc60350366eb9776ff6012e3bf2",
+        "size_in_bytes": 8902
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/plot_confusion_matrix.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca6db622e313f6c05d5aae4832eb9083bf8b980c2b28aa81bd3610f8d05a59b8",
+        "sha256_in_prefix": "ca6db622e313f6c05d5aae4832eb9083bf8b980c2b28aa81bd3610f8d05a59b8",
+        "size_in_bytes": 6822
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/plot_linear_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e71d300442b9ce71446345c1aa0106b2ae436896b634d034b06cd61a5d1c19c",
+        "sha256_in_prefix": "0e71d300442b9ce71446345c1aa0106b2ae436896b634d034b06cd61a5d1c19c",
+        "size_in_bytes": 3806
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/plot_sequential_feature_selection.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b31ef51efb93c0648aef26384ab56717c68a4056e6daf48fe9a2af7af14d1bd",
+        "sha256_in_prefix": "2b31ef51efb93c0648aef26384ab56717c68a4056e6daf48fe9a2af7af14d1bd",
+        "size_in_bytes": 3822
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/remove_chartjunk.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5b58ca26c98ef0ab15b6efdf883394946b89d86c68644c1a4a7eb1a1ee6f6669",
+        "sha256_in_prefix": "5b58ca26c98ef0ab15b6efdf883394946b89d86c68644c1a4a7eb1a1ee6f6669",
+        "size_in_bytes": 1798
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/scatter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "830d93d265a6dc87be981f214ec19183b1b55985345d924ca08e28c76290cb76",
+        "sha256_in_prefix": "830d93d265a6dc87be981f214ec19183b1b55985345d924ca08e28c76290cb76",
+        "size_in_bytes": 3509
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/scatter_hist.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0983e01c257ecc80b89507a621f595586f3f5cb4fcbdbb44fc221c0e8e0afe5",
+        "sha256_in_prefix": "a0983e01c257ecc80b89507a621f595586f3f5cb4fcbdbb44fc221c0e8e0afe5",
+        "size_in_bytes": 2881
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/scatterplotmatrix.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c54715cb68ba32ee7144fc849a3f571705f8db6bf1c7d8b7552eaae2577bea02",
+        "sha256_in_prefix": "c54715cb68ba32ee7144fc849a3f571705f8db6bf1c7d8b7552eaae2577bea02",
+        "size_in_bytes": 3455
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/__pycache__/stacked_barplot.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca556fefa456635ef4f5bbfc07694fd6606e454cb170c6f28aa7cac1d06bafe4",
+        "sha256_in_prefix": "ca556fefa456635ef4f5bbfc07694fd6606e454cb170c6f28aa7cac1d06bafe4",
+        "size_in_bytes": 3871
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/checkerboard.py",
+        "path_type": "hardlink",
+        "sha256": "4fb0b7d7cd49270e98d985716924e2364c278e0f2fdf46358f87871a33dae1ee",
+        "sha256_in_prefix": "4fb0b7d7cd49270e98d985716924e2364c278e0f2fdf46358f87871a33dae1ee",
+        "size_in_bytes": 3266
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/decision_regions.py",
+        "path_type": "hardlink",
+        "sha256": "6d7d4daa3bb14923b123a3a824f6c7465439b6928cfc9796f1f0726dc98fbd9e",
+        "sha256_in_prefix": "6d7d4daa3bb14923b123a3a824f6c7465439b6928cfc9796f1f0726dc98fbd9e",
+        "size_in_bytes": 13549
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/ecdf.py",
+        "path_type": "hardlink",
+        "sha256": "35a09bc899469ab0f4f22bfd0fb1b636e4553b011fc26520b9531c963796705f",
+        "sha256_in_prefix": "35a09bc899469ab0f4f22bfd0fb1b636e4553b011fc26520b9531c963796705f",
+        "size_in_bytes": 2690
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/enrichment_plot.py",
+        "path_type": "hardlink",
+        "sha256": "6fb57e084de536fa55263b52a46f30d61b14f142007af30dd88c4b3deae94070",
+        "sha256_in_prefix": "6fb57e084de536fa55263b52a46f30d61b14f142007af30dd88c4b3deae94070",
+        "size_in_bytes": 3674
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/heatmap.py",
+        "path_type": "hardlink",
+        "sha256": "2dd13ed391a05a47faeb4466a802261d54d4bee809ead5044fef0b048a83dd32",
+        "sha256_in_prefix": "2dd13ed391a05a47faeb4466a802261d54d4bee809ead5044fef0b048a83dd32",
+        "size_in_bytes": 4775
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/learning_curves.py",
+        "path_type": "hardlink",
+        "sha256": "1898b87c573a4a2ab1451942d96f70ad7cff9317bd1f5940213c19fa1690ebfa",
+        "sha256_in_prefix": "1898b87c573a4a2ab1451942d96f70ad7cff9317bd1f5940213c19fa1690ebfa",
+        "size_in_bytes": 5393
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/pca_correlation_graph.py",
+        "path_type": "hardlink",
+        "sha256": "8c3d700ed258a7b9e12cdba88ed3c5effd5886630d85cabe0a54e07d1001b643",
+        "sha256_in_prefix": "8c3d700ed258a7b9e12cdba88ed3c5effd5886630d85cabe0a54e07d1001b643",
+        "size_in_bytes": 6456
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/plot_confusion_matrix.py",
+        "path_type": "hardlink",
+        "sha256": "6bbe375bb4c52c47fdb46424e6e5a98c3ac3c142ff57b0c05279aa3f6a661d76",
+        "sha256_in_prefix": "6bbe375bb4c52c47fdb46424e6e5a98c3ac3c142ff57b0c05279aa3f6a661d76",
+        "size_in_bytes": 5794
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/plot_linear_regression.py",
+        "path_type": "hardlink",
+        "sha256": "2d42bf6b55358479f38261e11658f196beb5d6584a4f19d7227a236867dcfd6f",
+        "sha256_in_prefix": "2d42bf6b55358479f38261e11658f196beb5d6584a4f19d7227a236867dcfd6f",
+        "size_in_bytes": 2961
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/plot_sequential_feature_selection.py",
+        "path_type": "hardlink",
+        "sha256": "a1678001b60074200b546a1fe1ffc72fd394d3b05102728d030fee1f5450bdc8",
+        "sha256_in_prefix": "a1678001b60074200b546a1fe1ffc72fd394d3b05102728d030fee1f5450bdc8",
+        "size_in_bytes": 2857
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/remove_chartjunk.py",
+        "path_type": "hardlink",
+        "sha256": "78ad18268bf80237ec177f3b87bdb54039d8e9fcfd2a8a9e0d9d20ff21bcda14",
+        "sha256_in_prefix": "78ad18268bf80237ec177f3b87bdb54039d8e9fcfd2a8a9e0d9d20ff21bcda14",
+        "size_in_bytes": 1404
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/scatter.py",
+        "path_type": "hardlink",
+        "sha256": "6e85b0373d3b071db6d0472c16c0d7dba74c263147280fa986285e390e238811",
+        "sha256_in_prefix": "6e85b0373d3b071db6d0472c16c0d7dba74c263147280fa986285e390e238811",
+        "size_in_bytes": 2796
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/scatter_hist.py",
+        "path_type": "hardlink",
+        "sha256": "b2e058b1e413ff1a160cec2ac36cdb53e3493318647b20371488f0376de96d91",
+        "sha256_in_prefix": "b2e058b1e413ff1a160cec2ac36cdb53e3493318647b20371488f0376de96d91",
+        "size_in_bytes": 2197
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/scatterplotmatrix.py",
+        "path_type": "hardlink",
+        "sha256": "5984bf1e9e062440c6c12248c637d59fe92e441505b921064b8e7dc23b13f6ce",
+        "sha256_in_prefix": "5984bf1e9e062440c6c12248c637d59fe92e441505b921064b8e7dc23b13f6ce",
+        "size_in_bytes": 2476
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/stacked_barplot.py",
+        "path_type": "hardlink",
+        "sha256": "300f84674456bbdfe798c19a671675d32e6cd488420c0bcedc8feaa643698aed",
+        "sha256_in_prefix": "300f84674456bbdfe798c19a671675d32e6cd488420c0bcedc8feaa643698aed",
+        "size_in_bytes": 2689
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_checkerboard.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e1c16fb241103315420ce53adbafad59deec0ea83eebcd55d7beb1cc1f462519",
+        "sha256_in_prefix": "e1c16fb241103315420ce53adbafad59deec0ea83eebcd55d7beb1cc1f462519",
+        "size_in_bytes": 1144
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_decision_regions.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "61464d7e1e16b77390a310fe82862df12a1dccd168c4b910a2896dff03498c55",
+        "sha256_in_prefix": "61464d7e1e16b77390a310fe82862df12a1dccd168c4b910a2896dff03498c55",
+        "size_in_bytes": 7089
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_ecdf.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9d847e0cfbc486b16e0e3f27eee6777707ac7f96f5050abb0ce4ad611a64e6af",
+        "sha256_in_prefix": "9d847e0cfbc486b16e0e3f27eee6777707ac7f96f5050abb0ce4ad611a64e6af",
+        "size_in_bytes": 735
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_heatmap.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4ea8e6ce6000237890e69ec7c29d1bda5e525fcc5d16fb08b0f4ccfbf5f38023",
+        "sha256_in_prefix": "4ea8e6ce6000237890e69ec7c29d1bda5e525fcc5d16fb08b0f4ccfbf5f38023",
+        "size_in_bytes": 2127
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_learning_curves.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c834ae42fb836dce2b3f14bcf0464ca900db5d0babb2be76ce1c0c667e8cecc1",
+        "sha256_in_prefix": "c834ae42fb836dce2b3f14bcf0464ca900db5d0babb2be76ce1c0c667e8cecc1",
+        "size_in_bytes": 2609
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_pca_corr_graph.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c7a8c8be6fee567ba14d6c0e94a7c14e1749419b0c09036ec199d7d446fd043c",
+        "sha256_in_prefix": "c7a8c8be6fee567ba14d6c0e94a7c14e1749419b0c09036ec199d7d446fd043c",
+        "size_in_bytes": 3965
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/__pycache__/test_scatter_hist.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea1f32ce3bb46f01197a7630aebf871338e7e742bc67ed6a46ac4da634aa1ff5",
+        "sha256_in_prefix": "ea1f32ce3bb46f01197a7630aebf871338e7e742bc67ed6a46ac4da634aa1ff5",
+        "size_in_bytes": 1115
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/test_checkerboard.py",
+        "path_type": "hardlink",
+        "sha256": "7ca2389f12d5319b35f3d65e1706c418be3f53d6ac826fdd957111269b3d0d13",
+        "sha256_in_prefix": "7ca2389f12d5319b35f3d65e1706c418be3f53d6ac826fdd957111269b3d0d13",
+        "size_in_bytes": 595
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/test_decision_regions.py",
+        "path_type": "hardlink",
+        "sha256": "c81ec39a5d057dcfea1f8ba8ddaf49e9d17d8657c7eb35cbe351a22ce2ed9a11",
+        "sha256_in_prefix": "c81ec39a5d057dcfea1f8ba8ddaf49e9d17d8657c7eb35cbe351a22ce2ed9a11",
+        "size_in_bytes": 3483
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/test_ecdf.py",
+        "path_type": "hardlink",
+        "sha256": "2605e83a11845ca609558bdb24cd6584a6ef721b599e89ad18928f0beeefde6f",
+        "sha256_in_prefix": "2605e83a11845ca609558bdb24cd6584a6ef721b599e89ad18928f0beeefde6f",
+        "size_in_bytes": 410
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/test_heatmap.py",
+        "path_type": "hardlink",
+        "sha256": "045f14b51a7d4733e0186dac9967befe19fcf1ad95c8185cba4213f3cc20f765",
+        "sha256_in_prefix": "045f14b51a7d4733e0186dac9967befe19fcf1ad95c8185cba4213f3cc20f765",
+        "size_in_bytes": 1073
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/test_learning_curves.py",
+        "path_type": "hardlink",
+        "sha256": "1e9ad921faeccfb5f44e48a85cb2243a297f8cc09ad0a3f047726a7a52ad8e86",
+        "sha256_in_prefix": "1e9ad921faeccfb5f44e48a85cb2243a297f8cc09ad0a3f047726a7a52ad8e86",
+        "size_in_bytes": 1774
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/test_pca_corr_graph.py",
+        "path_type": "hardlink",
+        "sha256": "858d0b9118f5b1410b90623d097261cd1e1a21231cd1326a852258fad3bcdd53",
+        "sha256_in_prefix": "858d0b9118f5b1410b90623d097261cd1e1a21231cd1326a852258fad3bcdd53",
+        "size_in_bytes": 2223
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/plotting/tests/test_scatter_hist.py",
+        "path_type": "hardlink",
+        "sha256": "88f99d558334337f7a722cf09aed9c7e6b9051df6eda018d98b378c1ec31b474",
+        "sha256_in_prefix": "88f99d558334337f7a722cf09aed9c7e6b9051df6eda018d98b378c1ec31b474",
+        "size_in_bytes": 431
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bc0767737578810d7081570bf2d821bbdee56a38bb20536e0d10199163a42447",
+        "sha256_in_prefix": "bc0767737578810d7081570bf2d821bbdee56a38bb20536e0d10199163a42447",
+        "size_in_bytes": 653
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf278de843fed7d401c9df40bf44232fd9299a5aedd6675ac55e639ffe187c31",
+        "sha256_in_prefix": "bf278de843fed7d401c9df40bf44232fd9299a5aedd6675ac55e639ffe187c31",
+        "size_in_bytes": 737
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/copy_transformer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8bd560fc5707863ea96d125894030d47599c777576b87a3f7682a56066a9723",
+        "sha256_in_prefix": "a8bd560fc5707863ea96d125894030d47599c777576b87a3f7682a56066a9723",
+        "size_in_bytes": 2748
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/dense_transformer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f4a4fad0fe26e416f9d3734959383a77a851e481002d3f0392222cf38a31975e",
+        "sha256_in_prefix": "f4a4fad0fe26e416f9d3734959383a77a851e481002d3f0392222cf38a31975e",
+        "size_in_bytes": 2557
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/mean_centering.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "00f58714dc1c26afa01f619af1de35ee5f436e17c4d13da497861ef340bf2104",
+        "sha256_in_prefix": "00f58714dc1c26afa01f619af1de35ee5f436e17c4d13da497861ef340bf2104",
+        "size_in_bytes": 3968
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/onehot.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4ecf6176bec67b3195f531017b7b4b97d625af7ffdc93996b0b8949df1c975c8",
+        "sha256_in_prefix": "4ecf6176bec67b3195f531017b7b4b97d625af7ffdc93996b0b8949df1c975c8",
+        "size_in_bytes": 2155
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/scaling.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ee8fa21b278d2fcf647c058b797e402da21c27f5a2704cf54abf7dabdb506491",
+        "sha256_in_prefix": "ee8fa21b278d2fcf647c058b797e402da21c27f5a2704cf54abf7dabdb506491",
+        "size_in_bytes": 5907
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/shuffle.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f986ba9ecbe41d9c2728f93441a002d433dfa21608c4a03a83bda4f19020d27",
+        "sha256_in_prefix": "5f986ba9ecbe41d9c2728f93441a002d433dfa21608c4a03a83bda4f19020d27",
+        "size_in_bytes": 4361
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/__pycache__/transactionencoder.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ede8b1ff7df132908a5a73f77c5ae4e393b33be7bb6374461df1db9abc0ab52b",
+        "sha256_in_prefix": "ede8b1ff7df132908a5a73f77c5ae4e393b33be7bb6374461df1db9abc0ab52b",
+        "size_in_bytes": 8124
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/copy_transformer.py",
+        "path_type": "hardlink",
+        "sha256": "2933ca7c241019e3205a627f0a45fae827f362025fca21915b01079cdeb71da2",
+        "sha256_in_prefix": "2933ca7c241019e3205a627f0a45fae827f362025fca21915b01079cdeb71da2",
+        "size_in_bytes": 2321
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/dense_transformer.py",
+        "path_type": "hardlink",
+        "sha256": "b32a5dc721777e62d17fe219035e81a2b5f33fa2ce1c44c28545b7698b6e5e2b",
+        "sha256_in_prefix": "b32a5dc721777e62d17fe219035e81a2b5f33fa2ce1c44c28545b7698b6e5e2b",
+        "size_in_bytes": 2279
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/mean_centering.py",
+        "path_type": "hardlink",
+        "sha256": "e189c32d0de35b4c1990597b8a919f2568c708f8208d4ea485f0763f9276d10e",
+        "sha256_in_prefix": "e189c32d0de35b4c1990597b8a919f2568c708f8208d4ea485f0763f9276d10e",
+        "size_in_bytes": 2667
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/onehot.py",
+        "path_type": "hardlink",
+        "sha256": "0888fd8bb89324a1823eedaf8919ecd98a8d908346e3c5e3be40d0e8ef765f00",
+        "sha256_in_prefix": "0888fd8bb89324a1823eedaf8919ecd98a8d908346e3c5e3be40d0e8ef765f00",
+        "size_in_bytes": 1646
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/scaling.py",
+        "path_type": "hardlink",
+        "sha256": "2498a3c8479b5e0dc5516de148be43f9bfd94e06d0358f63b232bf84fb6e44bf",
+        "sha256_in_prefix": "2498a3c8479b5e0dc5516de148be43f9bfd94e06d0358f63b232bf84fb6e44bf",
+        "size_in_bytes": 4702
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/shuffle.py",
+        "path_type": "hardlink",
+        "sha256": "994158f89bd7dc45526e2ce0281e975f4b992895713e0312e7b0cc3bb6d11cc6",
+        "sha256_in_prefix": "994158f89bd7dc45526e2ce0281e975f4b992895713e0312e7b0cc3bb6d11cc6",
+        "size_in_bytes": 3390
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test__scaling__minmax_scaling.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fe7cd0355df2302471f061b8410fc47eb0941eb060d71ba7d33c3bbac6b305a3",
+        "sha256_in_prefix": "fe7cd0355df2302471f061b8410fc47eb0941eb060d71ba7d33c3bbac6b305a3",
+        "size_in_bytes": 3225
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test__scaling__standardizing.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e89e435e86035f899d64ca2c24abc60afc3c86c4a7c980ef5a52ad0e93d5aa16",
+        "sha256_in_prefix": "e89e435e86035f899d64ca2c24abc60afc3c86c4a7c980ef5a52ad0e93d5aa16",
+        "size_in_bytes": 6694
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_copy_transformer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f7132473132ee69a038b2ea79b63a0d37e1d17363451366bbc10bdc3b01bd33",
+        "sha256_in_prefix": "5f7132473132ee69a038b2ea79b63a0d37e1d17363451366bbc10bdc3b01bd33",
+        "size_in_bytes": 3595
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_dense_transformer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "eefe26154680deb2846d2872f6566bff8682febca080f5a0cb8531f6b8db72bd",
+        "sha256_in_prefix": "eefe26154680deb2846d2872f6566bff8682febca080f5a0cb8531f6b8db72bd",
+        "size_in_bytes": 2959
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_mean_centering.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "21e5a7804cd26acebb65a3a0e5cf581bb83e7e11d13f76a484babf5bbcff6864",
+        "sha256_in_prefix": "21e5a7804cd26acebb65a3a0e5cf581bb83e7e11d13f76a484babf5bbcff6864",
+        "size_in_bytes": 2095
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_onehot.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6419d193c7639348a771fdbda79d02221218dd3aa098e60c7c249f9c3dd8cd66",
+        "sha256_in_prefix": "6419d193c7639348a771fdbda79d02221218dd3aa098e60c7c249f9c3dd8cd66",
+        "size_in_bytes": 3793
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_shuffle_shuffle_arrays_unison.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "af974d5d995e3b19709051ef908e15481d83c6787fc8578643b97e9526542e92",
+        "sha256_in_prefix": "af974d5d995e3b19709051ef908e15481d83c6787fc8578643b97e9526542e92",
+        "size_in_bytes": 1190
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/__pycache__/test_transactionencoder.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d926888f34151fd7b4af9c847b6aea1b3e2165624d95cd443075c158aaabb823",
+        "sha256_in_prefix": "d926888f34151fd7b4af9c847b6aea1b3e2165624d95cd443075c158aaabb823",
+        "size_in_bytes": 4407
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test__scaling__minmax_scaling.py",
+        "path_type": "hardlink",
+        "sha256": "84a6c6ed5e33cdf7836b73d87e655502639b1ab01d8ffefae1ec9acc246d1e9b",
+        "sha256_in_prefix": "84a6c6ed5e33cdf7836b73d87e655502639b1ab01d8ffefae1ec9acc246d1e9b",
+        "size_in_bytes": 1896
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test__scaling__standardizing.py",
+        "path_type": "hardlink",
+        "sha256": "202ffbfffdb565f79194b5bdc5529aa355c07a2c109d7ceeceafad86faff2632",
+        "sha256_in_prefix": "202ffbfffdb565f79194b5bdc5529aa355c07a2c109d7ceeceafad86faff2632",
+        "size_in_bytes": 4288
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test_copy_transformer.py",
+        "path_type": "hardlink",
+        "sha256": "6284271d6876aa7f121b78db05e674b7f4612abcb7b1727a39f30adf7daddaee",
+        "sha256_in_prefix": "6284271d6876aa7f121b78db05e674b7f4612abcb7b1727a39f30adf7daddaee",
+        "size_in_bytes": 1900
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test_dense_transformer.py",
+        "path_type": "hardlink",
+        "sha256": "fcd845fe43bb203cfe747903477fbc273987760d76994894c211d926e1825376",
+        "sha256_in_prefix": "fcd845fe43bb203cfe747903477fbc273987760d76994894c211d926e1825376",
+        "size_in_bytes": 1558
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test_mean_centering.py",
+        "path_type": "hardlink",
+        "sha256": "a35c57fbb8d46cc77d202774a9308b56e352a8c4eaf2a95706c98351430e48a2",
+        "sha256_in_prefix": "a35c57fbb8d46cc77d202774a9308b56e352a8c4eaf2a95706c98351430e48a2",
+        "size_in_bytes": 818
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test_onehot.py",
+        "path_type": "hardlink",
+        "sha256": "1c3160a1365b4f974919172091ee0f4f0eba03d29b716d565b59a03122aeba8f",
+        "sha256_in_prefix": "1c3160a1365b4f974919172091ee0f4f0eba03d29b716d565b59a03122aeba8f",
+        "size_in_bytes": 1998
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test_shuffle_shuffle_arrays_unison.py",
+        "path_type": "hardlink",
+        "sha256": "e2771f167007e77faca95bc3e5585d1edc05f8a3592211a1ce8207e92a1f9232",
+        "sha256_in_prefix": "e2771f167007e77faca95bc3e5585d1edc05f8a3592211a1ce8207e92a1f9232",
+        "size_in_bytes": 540
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/tests/test_transactionencoder.py",
+        "path_type": "hardlink",
+        "sha256": "6ef22fcd3bf9b9d34992dba780274bb02598add3c024425d29fc270c0dcc440f",
+        "sha256_in_prefix": "6ef22fcd3bf9b9d34992dba780274bb02598add3c024425d29fc270c0dcc440f",
+        "size_in_bytes": 2315
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/preprocessing/transactionencoder.py",
+        "path_type": "hardlink",
+        "sha256": "decd221193ed0a4472fc62f7591b728168951dd8b6f379e3eb2bd2a155e4f3a1",
+        "sha256_in_prefix": "decd221193ed0a4472fc62f7591b728168951dd8b6f379e3eb2bd2a155e4f3a1",
+        "size_in_bytes": 6554
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b4ac2883c8f43334aef5de51330aceedafe446f477b87f1d2f82f86cec154821",
+        "sha256_in_prefix": "b4ac2883c8f43334aef5de51330aceedafe446f477b87f1d2f82f86cec154821",
+        "size_in_bytes": 385
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6ba71f366638add0374cd65c6d4cf8e744320aa0c0717ee8989f16f108e1de5c",
+        "sha256_in_prefix": "6ba71f366638add0374cd65c6d4cf8e744320aa0c0717ee8989f16f108e1de5c",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/__pycache__/linear_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5211400f975581c5df95b14f5d087b047aac4a459bbbae95729df6322fad877e",
+        "sha256_in_prefix": "5211400f975581c5df95b14f5d087b047aac4a459bbbae95729df6322fad877e",
+        "size_in_bytes": 8949
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/__pycache__/stacking_cv_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c001f10de91bc5ee37f8fc4f2688d22917fb6bad2cce7fd45578f36df8fbad02",
+        "sha256_in_prefix": "c001f10de91bc5ee37f8fc4f2688d22917fb6bad2cce7fd45578f36df8fbad02",
+        "size_in_bytes": 13289
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/__pycache__/stacking_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e897e996a7b2f9cf8da3718f8eca58a126cbceec74c1894be7b7a5ffdee83209",
+        "sha256_in_prefix": "e897e996a7b2f9cf8da3718f8eca58a126cbceec74c1894be7b7a5ffdee83209",
+        "size_in_bytes": 11196
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/linear_regression.py",
+        "path_type": "hardlink",
+        "sha256": "2ee433b8eadda2429e31757bf94a451b21ef9d0f94010d3f3783b775231b9fdc",
+        "sha256_in_prefix": "2ee433b8eadda2429e31757bf94a451b21ef9d0f94010d3f3783b775231b9fdc",
+        "size_in_bytes": 6127
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/stacking_cv_regression.py",
+        "path_type": "hardlink",
+        "sha256": "ddbd5a3d6e332cd26ef8f1ee22dfe0844a7ecd70939f14a75a4e2a041f3cf75f",
+        "sha256_in_prefix": "ddbd5a3d6e332cd26ef8f1ee22dfe0844a7ecd70939f14a75a4e2a041f3cf75f",
+        "size_in_bytes": 12269
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/stacking_regression.py",
+        "path_type": "hardlink",
+        "sha256": "5455bab52df7a4c0ff3622c9a1756f5ded355f55b2cc756d9cd538dd02698d5f",
+        "sha256_in_prefix": "5455bab52df7a4c0ff3622c9a1756f5ded355f55b2cc756d9cd538dd02698d5f",
+        "size_in_bytes": 9130
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/tests/__pycache__/test_linear_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "63f5d5a9e5206670efb2e3d1755c0027cd84bf8106081a1d83a2da70cf38813a",
+        "sha256_in_prefix": "63f5d5a9e5206670efb2e3d1755c0027cd84bf8106081a1d83a2da70cf38813a",
+        "size_in_bytes": 9749
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/tests/__pycache__/test_stacking_cv_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2831ee850efbd7d4fb3b7b044e0950cf77ae5c003ace141dcc4066be2ee981aa",
+        "sha256_in_prefix": "2831ee850efbd7d4fb3b7b044e0950cf77ae5c003ace141dcc4066be2ee981aa",
+        "size_in_bytes": 23564
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/tests/__pycache__/test_stacking_regression.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fdbe8fce55b217bcd32d1f750f40ad1b4e90047a0068bfaf8d394738007afdff",
+        "sha256_in_prefix": "fdbe8fce55b217bcd32d1f750f40ad1b4e90047a0068bfaf8d394738007afdff",
+        "size_in_bytes": 23219
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/tests/test_linear_regression.py",
+        "path_type": "hardlink",
+        "sha256": "181d2b303e4e552bcce8329eab2ba5ae2d600aeb731ca24efa74bc8fa2561e1a",
+        "sha256_in_prefix": "181d2b303e4e552bcce8329eab2ba5ae2d600aeb731ca24efa74bc8fa2561e1a",
+        "size_in_bytes": 4980
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/tests/test_stacking_cv_regression.py",
+        "path_type": "hardlink",
+        "sha256": "6d5f915c4646accf1bcc04c174224b98c88152da946c788824641945abe69fc5",
+        "sha256_in_prefix": "6d5f915c4646accf1bcc04c174224b98c88152da946c788824641945abe69fc5",
+        "size_in_bytes": 13373
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/regressor/tests/test_stacking_regression.py",
+        "path_type": "hardlink",
+        "sha256": "6db45ce28475a922f2ede10a639950b36711015f68a5005f7567b46e1b99094a",
+        "sha256_in_prefix": "6db45ce28475a922f2ede10a639950b36711015f68a5005f7567b46e1b99094a",
+        "size_in_bytes": 12800
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "add567447861bc75d81072aff5f4470d7ed515e146ca1694d85aab4b17fdcdd0",
+        "sha256_in_prefix": "add567447861bc75d81072aff5f4470d7ed515e146ca1694d85aab4b17fdcdd0",
+        "size_in_bytes": 499
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3cbef5bd0a9871b0b3f24e0d61787068223bb8d46c334e24f9693cceee6eed89",
+        "sha256_in_prefix": "3cbef5bd0a9871b0b3f24e0d61787068223bb8d46c334e24f9693cceee6eed89",
+        "size_in_bytes": 536
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/__pycache__/names.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "94d9270af1dc5020e38516ac6d536411ed1562f2db653223b70a0812ea75c532",
+        "sha256_in_prefix": "94d9270af1dc5020e38516ac6d536411ed1562f2db653223b70a0812ea75c532",
+        "size_in_bytes": 6554
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/__pycache__/tokenizer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "38b774d385588c4aa440a7505b7676075746eec7a0374d31afba19c90010a94c",
+        "sha256_in_prefix": "38b774d385588c4aa440a7505b7676075746eec7a0374d31afba19c90010a94c",
+        "size_in_bytes": 1631
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/names.py",
+        "path_type": "hardlink",
+        "sha256": "3b97152557333de3250e5cfdc37c623ed0085f37e27a86db6be6d10242fe3d9f",
+        "sha256_in_prefix": "3b97152557333de3250e5cfdc37c623ed0085f37e27a86db6be6d10242fe3d9f",
+        "size_in_bytes": 4796
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/__pycache__/data_names.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "910310e8a1458efd797d399f4682a032118aa9c81e7f3ab5b2dc9752abc9694e",
+        "sha256_in_prefix": "910310e8a1458efd797d399f4682a032118aa9c81e7f3ab5b2dc9752abc9694e",
+        "size_in_bytes": 21706
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/__pycache__/test_generalize_names.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b42dfce1b6380577d31834ebfb50cf9f833ffb7636b47ecc0b84b3c31c9b8792",
+        "sha256_in_prefix": "b42dfce1b6380577d31834ebfb50cf9f833ffb7636b47ecc0b84b3c31c9b8792",
+        "size_in_bytes": 2240
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/__pycache__/test_generalize_names_duplcheck.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4d14fce63ee1b48403fec01faef2b232e1c45b9befe6c9c8248ed355f16f4df6",
+        "sha256_in_prefix": "4d14fce63ee1b48403fec01faef2b232e1c45b9befe6c9c8248ed355f16f4df6",
+        "size_in_bytes": 1324
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/__pycache__/test_tokenizer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "88b3fa3445874108b9be4c341ff999c588cdd718161b71150a8dce8bbac036fe",
+        "sha256_in_prefix": "88b3fa3445874108b9be4c341ff999c588cdd718161b71150a8dce8bbac036fe",
+        "size_in_bytes": 850
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/data_names.py",
+        "path_type": "hardlink",
+        "sha256": "bbc0496cd3ba2c1ccd72fd00d9d95cba3a7685adbb328b507f2222287556b4ea",
+        "sha256_in_prefix": "bbc0496cd3ba2c1ccd72fd00d9d95cba3a7685adbb328b507f2222287556b4ea",
+        "size_in_bytes": 21547
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/test_generalize_names.py",
+        "path_type": "hardlink",
+        "sha256": "093ba377af2e1c894159344e6e065733f82ccb0d8a622cce99ef89b4b083b359",
+        "sha256_in_prefix": "093ba377af2e1c894159344e6e065733f82ccb0d8a622cce99ef89b4b083b359",
+        "size_in_bytes": 1507
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/test_generalize_names_duplcheck.py",
+        "path_type": "hardlink",
+        "sha256": "d26e7675282792d01177c49ea575e9c7d961298f0129e74090b3965d7b25e880",
+        "sha256_in_prefix": "d26e7675282792d01177c49ea575e9c7d961298f0129e74090b3965d7b25e880",
+        "size_in_bytes": 599
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tests/test_tokenizer.py",
+        "path_type": "hardlink",
+        "sha256": "5abc73d9b3eacc35fcdb68369908ee8a3f10d252a0d96733b3a1f36c92ddd7d1",
+        "sha256_in_prefix": "5abc73d9b3eacc35fcdb68369908ee8a3f10d252a0d96733b3a1f36c92ddd7d1",
+        "size_in_bytes": 442
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/text/tokenizer.py",
+        "path_type": "hardlink",
+        "sha256": "e17632b0045b3d2ebcdbc78fe2debbaac822e4a12332a6f43075ee51ef21f47b",
+        "sha256_in_prefix": "e17632b0045b3d2ebcdbc78fe2debbaac822e4a12332a6f43075ee51ef21f47b",
+        "size_in_bytes": 1212
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "076f55279ed09fd07f78d2bd6cdbe77c4892e15bea1f5833a458245d0e2cbacb",
+        "sha256_in_prefix": "076f55279ed09fd07f78d2bd6cdbe77c4892e15bea1f5833a458245d0e2cbacb",
+        "size_in_bytes": 357
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "aaa81240b6f7181535fae9933d6bb4f91e3b63222d1a35347e170daceca22c5c",
+        "sha256_in_prefix": "aaa81240b6f7181535fae9933d6bb4f91e3b63222d1a35347e170daceca22c5c",
+        "size_in_bytes": 415
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/__pycache__/base_compostion.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d58add57a051e9005b6d63913f77fab8a36dc28b22087405b93e5cb7ada9a86f",
+        "sha256_in_prefix": "d58add57a051e9005b6d63913f77fab8a36dc28b22087405b93e5cb7ada9a86f",
+        "size_in_bytes": 1774
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/__pycache__/checking.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "25a4d971bc39a53f3773d81eaa70ad5aa9d6428faab37726f30981517938f15f",
+        "sha256_in_prefix": "25a4d971bc39a53f3773d81eaa70ad5aa9d6428faab37726f30981517938f15f",
+        "size_in_bytes": 3243
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/__pycache__/counter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0cd36222779b5c121364b902bd00f12e14c9701261857d81e1f901f5550189e3",
+        "sha256_in_prefix": "0cd36222779b5c121364b902bd00f12e14c9701261857d81e1f901f5550189e3",
+        "size_in_bytes": 3492
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/__pycache__/testing.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "879be4909da1f8ad44c466bed8ab8c5a7229e2b311f27ea6b63ec602186eb17c",
+        "sha256_in_prefix": "879be4909da1f8ad44c466bed8ab8c5a7229e2b311f27ea6b63ec602186eb17c",
+        "size_in_bytes": 1304
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/base_compostion.py",
+        "path_type": "hardlink",
+        "sha256": "0f51e2fa3a5d3413692cf6c1842f4d5d0a23a443619adb129acf0af1329e870e",
+        "sha256_in_prefix": "0f51e2fa3a5d3413692cf6c1842f4d5d0a23a443619adb129acf0af1329e870e",
+        "size_in_bytes": 1396
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/checking.py",
+        "path_type": "hardlink",
+        "sha256": "ef5504023756b2a38eab0b28bb691da93286fab56b19af15637af77d13265606",
+        "sha256_in_prefix": "ef5504023756b2a38eab0b28bb691da93286fab56b19af15637af77d13265606",
+        "size_in_bytes": 2331
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/counter.py",
+        "path_type": "hardlink",
+        "sha256": "f310b7c899eed6b33a2ce93beda113f0769f7b7874798b3a190e017ee27aab5b",
+        "sha256_in_prefix": "f310b7c899eed6b33a2ce93beda113f0769f7b7874798b3a190e017ee27aab5b",
+        "size_in_bytes": 2781
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/testing.py",
+        "path_type": "hardlink",
+        "sha256": "9e8b1c50d9dc1a225c037a2c98232390988c87e8dd4421e4b5fe7464fbb16b59",
+        "sha256_in_prefix": "9e8b1c50d9dc1a225c037a2c98232390988c87e8dd4421e4b5fe7464fbb16b59",
+        "size_in_bytes": 1151
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/tests/__pycache__/test_checking_inputs.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5940d5783c7229482ef02c4fb10a329be0a6b19426aef66e8c0b085a92ec0ba6",
+        "sha256_in_prefix": "5940d5783c7229482ef02c4fb10a329be0a6b19426aef66e8c0b085a92ec0ba6",
+        "size_in_bytes": 7553
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/tests/__pycache__/test_counter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "acd73bf0895727517d1d04d84a0a7ee6ca0ef3c605afd57d9f0b0c8b43d267d7",
+        "sha256_in_prefix": "acd73bf0895727517d1d04d84a0a7ee6ca0ef3c605afd57d9f0b0c8b43d267d7",
+        "size_in_bytes": 583
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/tests/__pycache__/test_testing.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f2ced168c369bf8988b29fef951c8f75d5a93a2897eedbd303dcf7735e24f9d",
+        "sha256_in_prefix": "5f2ced168c369bf8988b29fef951c8f75d5a93a2897eedbd303dcf7735e24f9d",
+        "size_in_bytes": 1021
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/tests/test_checking_inputs.py",
+        "path_type": "hardlink",
+        "sha256": "db80f7c35408e4eeccc7aa6b3c8cd2d3c7a3630e5a888bb22a732f9378f92705",
+        "sha256_in_prefix": "db80f7c35408e4eeccc7aa6b3c8cd2d3c7a3630e5a888bb22a732f9378f92705",
+        "size_in_bytes": 4152
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/tests/test_counter.py",
+        "path_type": "hardlink",
+        "sha256": "5369eda64b7e49b3593f0d00f11c2a2319b670e37af45f1ffca77162d64a2f87",
+        "sha256_in_prefix": "5369eda64b7e49b3593f0d00f11c2a2319b670e37af45f1ffca77162d64a2f87",
+        "size_in_bytes": 306
+      },
+      {
+        "_path": "Lib/site-packages/mlxtend/utils/tests/test_testing.py",
+        "path_type": "hardlink",
+        "sha256": "38cb09540c3c3a6479728cfe91bc21a3fa735523d0da912db4fe33a83590f674",
+        "sha256_in_prefix": "38cb09540c3c3a6479728cfe91bc21a3fa735523d0da912db4fe33a83590f674",
+        "size_in_bytes": 487
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "mlxtend",
+  "sha256": "84ed2a5c2b01f802fee8b02fc682e994ae92ff40dd58b9ca58d03b2e838916bc",
+  "size": 1623207,
+  "subdir": "win-64",
+  "timestamp": 1708368739445,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mlxtend-0.23.1-py311haa95532_0.conda",
+  "version": "0.23.1"
+}
