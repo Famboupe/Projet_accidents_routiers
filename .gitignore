@@ -1,5 +1,5 @@
-Brouillons/extra_tree_classifier_model.joblib
-models_saved/extra_tree_classifier_model.joblib
-Lib/site-packages/xgboost/lib/xgboost.dll
 dataset/dataset_analyse.csv
 models_saved/rf_model.joblib
+Lib/site-packages/xgboost/lib/xgboost.dll
+Brouillons/extra_tree_classifier_model.joblib
+models_saved/extra_tree_classifier_model.joblib
